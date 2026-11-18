@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Японские азбуки · карточки</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app">
+        <div class="theme-toggle-wrap">
+            <button class="theme-toggle" id="themeToggle" title="Переключить тему" aria-label="Переключить тему">
+                <span class="theme-icon" id="themeIcon">🌙</span>
+            </button>
+        </div>
+        <div class="direction-toggle-wrap">
+            <button class="direction-toggle" id="directionToggle" title="Сменить направление (кана ↔ ромадзи)"
+                aria-label="Сменить направление">
+                <span id="directionLabel">あ-a</span>
+            </button>
+            <button class="contest-btn" id="contestToggle" title="Проверка всех знаков"
+                aria-label="Проверка всех знаков">
+                🥇
+            </button>
+        </div>
+        <div class="alphabet-switch">
+            <button class="alphabet-btn active" data-alphabet="hiragana">Хирагана</button>
+            <button class="alphabet-btn" data-alphabet="katakana">Катакана</button>
+        </div>
+
+        <div class="mode-switch">
+            <button class="mode-btn active" data-mode="all">Все знаки</button>
+            <button class="mode-btn" data-mode="base">Базовые</button>
+        </div>
+
+        <div class="character-card">
+            <div class="character-row">
+                <div class="glyph" id="glyphDisplay">あ</div>
+                <button class="sound-btn" id="soundBtn" title="Прослушать произношение">🔊</button>
+            </div>
+
+            <div class="feedback-group">
+                <div id="badgeContainer"></div>
+                <div class="feedback" id="feedbackMessage"></div>
+            </div>
+        </div>
+
+        <div class="options-grid" id="optionsGrid">
+            <button class="option-btn" data-option-index="0">a</button>
+            <button class="option-btn" data-option-index="1">i</button>
+            <button class="option-btn" data-option-index="2">u</button>
+            <button class="option-btn" data-option-index="3">e</button>
+        </div>
+
+        <button class="next-btn" id="nextBtn" disabled>
+            <span>Дальше</span>
+            <span style="font-size: 1.4rem;">→</span>
+        </button>
+
+        <div class="word-card-wrapper">
+            <div class="word-card" id="wordCard" hidden>
+                <div class="word-header">
+                    <span class="word-label">Пример слова</span>
+                    <button class="word-sound-btn" id="wordSoundBtn" title="Прослушать слово">🔊</button>
+                </div>
+                <div class="word-main" id="wordMain">ください</div>
+                <div class="word-syllables" id="wordSyllables">[ ku · da · sa · i ]</div>
+                <div class="word-translation" id="wordTranslation">пожалуйста</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="contestModal" hidden>
+        <div class="modal">
+            <h2 class="modal-title">Результат проверки</h2>
+            <div class="modal-body">
+                <div class="result-row">
+                    <span>Базовые:</span>
+                    <span id="resultBase">0 / 0</span>
+                </div>
+                <div class="result-row">
+                    <span>dakuten:</span>
+                    <span id="resultDakuten">0 / 0</span>
+                </div>
+                <div class="result-row">
+                    <span>handakuten:</span>
+                    <span id="resultHandakuten">0 / 0</span>
+                </div>
+                <div class="result-row result-total">
+                    <span>Итого:</span>
+                    <span id="resultTotal">0 / 0</span>
+                </div>
+            </div>
+            <button class="modal-btn" id="contestCloseBtn">Закрыть</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

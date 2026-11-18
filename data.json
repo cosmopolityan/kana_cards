@@ -1,0 +1,2137 @@
+{
+  "hiragana": [
+    {
+      "char": "あ", "romaji": "a", "type": "base",
+      "words": [
+        { "word": "あい", "syllables": "a i", "translation": "любовь" },
+        { "word": "あさ", "syllables": "a sa", "translation": "утро" },
+        { "word": "あめ", "syllables": "a me", "translation": "дождь" },
+        { "word": "あおい", "syllables": "a o i", "translation": "синий, голубой" },
+        { "word": "あき", "syllables": "a ki", "translation": "осень" },
+        { "word": "あたま", "syllables": "a ta ma", "translation": "голова" },
+        { "word": "あたらしい", "syllables": "a ta ra shi i", "translation": "новый" },
+        { "word": "あかるい", "syllables": "a ka ru i", "translation": "светлый, яркий" },
+        { "word": "あし", "syllables": "a shi", "translation": "нога, лапа" },
+        { "word": "あそぶ", "syllables": "a so bu", "translation": "играть, развлекаться" }
+      ]
+    },
+    {
+      "char": "い", "romaji": "i", "type": "base",
+      "words": [
+        { "word": "いえ", "syllables": "i e", "translation": "дом" },
+        { "word": "いぬ", "syllables": "i nu", "translation": "собака" },
+        { "word": "いす", "syllables": "i su", "translation": "стул" },
+        { "word": "いち", "syllables": "i chi", "translation": "один" },
+        { "word": "いと", "syllables": "i to", "translation": "нитка" },
+        { "word": "いく", "syllables": "i ku", "translation": "идти, ехать" },
+        { "word": "いま", "syllables": "i ma", "translation": "сейчас" },
+        { "word": "いみ", "syllables": "i mi", "translation": "смысл, значение" },
+        { "word": "いそがしい", "syllables": "i so ga shi i", "translation": "занятый" },
+        { "word": "いたい", "syllables": "i ta i", "translation": "больно, больной" }
+      ]
+    },
+    {
+      "char": "う", "romaji": "u", "type": "base",
+      "words": [
+        { "word": "うみ", "syllables": "u mi", "translation": "море" },
+        { "word": "うた", "syllables": "u ta", "translation": "песня" },
+        { "word": "うし", "syllables": "u shi", "translation": "корова" },
+        { "word": "うで", "syllables": "u de", "translation": "рука (от плеча)" },
+        { "word": "うめ", "syllables": "u me", "translation": "слива" },
+        { "word": "うえ", "syllables": "u e", "translation": "верх, наверху" },
+        { "word": "うしろ", "syllables": "u shi ro", "translation": "сзади, позади" },
+        { "word": "うそ", "syllables": "u so", "translation": "ложь, враньё" },
+        { "word": "うるさい", "syllables": "u ru sa i", "translation": "шумный, надоедливый" },
+        { "word": "うま", "syllables": "u ma", "translation": "лошадь" }
+      ]
+    },
+    {
+      "char": "え", "romaji": "e", "type": "base",
+      "words": [
+        { "word": "えき", "syllables": "e ki", "translation": "станция" },
+        { "word": "えん", "syllables": "e n", "translation": "иена" },
+        { "word": "えだ", "syllables": "e da", "translation": "ветка" },
+        { "word": "えいが", "syllables": "e i ga", "translation": "кино, фильм" },
+        { "word": "えんぴつ", "syllables": "e n pi tsu", "translation": "карандаш" },
+        { "word": "えい", "syllables": "e i", "translation": "английский язык (сокр.)" },
+        { "word": "え", "syllables": "e", "translation": "картина" },
+        { "word": "えらい", "syllables": "e ra i", "translation": "выдающийся, молодец" },
+        { "word": "えのぐ", "syllables": "e no gu", "translation": "краски" },
+        { "word": "えんそく", "syllables": "e n so ku", "translation": "экскурсия, поход" }
+      ]
+    },
+    {
+      "char": "お", "romaji": "o", "type": "base",
+      "words": [
+        { "word": "おと", "syllables": "o to", "translation": "звук" },
+        { "word": "おかね", "syllables": "o ka ne", "translation": "деньги" },
+        { "word": "おちゃ", "syllables": "o cha", "translation": "чай" },
+        { "word": "おとこ", "syllables": "o to ko", "translation": "мужчина" },
+        { "word": "おんな", "syllables": "o n na", "translation": "женщина" },
+        { "word": "おおきい", "syllables": "o o ki i", "translation": "большой" },
+        { "word": "おいしい", "syllables": "o i shi i", "translation": "вкусный" },
+        { "word": "おそい", "syllables": "o so i", "translation": "медленный, поздний" },
+        { "word": "おもう", "syllables": "o mo u", "translation": "думать" },
+        { "word": "おわる", "syllables": "o wa ru", "translation": "заканчиваться" }
+      ]
+    },
+    {
+      "char": "か", "romaji": "ka", "type": "base",
+      "words": [
+        { "word": "かさ", "syllables": "ka sa", "translation": "зонт" },
+        { "word": "かお", "syllables": "ka o", "translation": "лицо" },
+        { "word": "かぜ", "syllables": "ka ze", "translation": "ветер; простуда" },
+        { "word": "かみ", "syllables": "ka mi", "translation": "бумага; волосы" },
+        { "word": "からだ", "syllables": "ka ra da", "translation": "тело" },
+        { "word": "かう", "syllables": "ka u", "translation": "покупать" },
+        { "word": "かく", "syllables": "ka ku", "translation": "писать" },
+        { "word": "かえる", "syllables": "ka e ru", "translation": "возвращаться; лягушка" },
+        { "word": "かおく", "syllables": "ka o ku", "translation": "дом, здание (жилое)" },
+        { "word": "かぞく", "syllables": "ka zo ku", "translation": "семья" }
+      ]
+    },
+    {
+      "char": "き", "romaji": "ki", "type": "base",
+      "words": [
+        { "word": "き", "syllables": "ki", "translation": "дерево" },
+        { "word": "きく", "syllables": "ki ku", "translation": "слушать; спрашивать" },
+        { "word": "きん", "syllables": "ki n", "translation": "золото" },
+        { "word": "きいろ", "syllables": "ki i ro", "translation": "жёлтый цвет" },
+        { "word": "きって", "syllables": "ki tte", "translation": "почтовая марка" },
+        { "word": "きょう", "syllables": "kyo u", "translation": "сегодня" },
+        { "word": "きのう", "syllables": "ki no u", "translation": "вчера" },
+        { "word": "きれい", "syllables": "ki re i", "translation": "красивый; чистый" },
+        { "word": "きぼう", "syllables": "ki bo u", "translation": "надежда, желание" },
+        { "word": "きおく", "syllables": "ki o ku", "translation": "память, воспоминание" }
+      ]
+    },
+    {
+      "char": "く", "romaji": "ku", "type": "base",
+      "words": [
+        { "word": "ください", "syllables": "ku da sa i", "translation": "пожалуйста (дайте)" },
+        { "word": "くに", "syllables": "ku ni", "translation": "страна" },
+        { "word": "くも", "syllables": "ku mo", "translation": "облако" },
+        { "word": "くち", "syllables": "ku chi", "translation": "рот" },
+        { "word": "くつ", "syllables": "ku tsu", "translation": "обувь" },
+        { "word": "くろい", "syllables": "ku ro i", "translation": "чёрный" },
+        { "word": "くる", "syllables": "ku ru", "translation": "приходить" },
+        { "word": "くるま", "syllables": "ku ru ma", "translation": "машина, автомобиль" },
+        { "word": "くすり", "syllables": "ku su ri", "translation": "лекарство" },
+        { "word": "くらい", "syllables": "ku ra i", "translation": "тёмный" }
+      ]
+    },
+    {
+      "char": "け", "romaji": "ke", "type": "base",
+      "words": [
+        { "word": "けさ", "syllables": "ke sa", "translation": "сегодня утром" },
+        { "word": "けむり", "syllables": "ke mu ri", "translation": "дым" },
+        { "word": "けが", "syllables": "ke ga", "translation": "травма, рана" },
+        { "word": "けいこ", "syllables": "ke i ko", "translation": "практика, занятия" },
+        { "word": "けいたい", "syllables": "ke i ta i", "translation": "мобильный телефон" },
+        { "word": "けす", "syllables": "ke su", "translation": "выключать; стирать" },
+        { "word": "けち", "syllables": "ke chi", "translation": "скупой; скупость" },
+        { "word": "けんか", "syllables": "ke n ka", "translation": "ссора, драка" },
+        { "word": "けんきゅう", "syllables": "ke n kyu u", "translation": "исследование" },
+        { "word": "けいかく", "syllables": "ke i ka ku", "translation": "план, проект" }
+      ]
+    },
+    {
+      "char": "こ", "romaji": "ko", "type": "base",
+      "words": [
+        { "word": "ここ", "syllables": "ko ko", "translation": "здесь" },
+        { "word": "こえ", "syllables": "ko e", "translation": "голос" },
+        { "word": "こころ", "syllables": "ko ko ro", "translation": "сердце, душа" },
+        { "word": "こども", "syllables": "ko do mo", "translation": "ребёнок" },
+        { "word": "ことば", "syllables": "ko to ba", "translation": "слово, речь" },
+        { "word": "こんにちは", "syllables": "ko n ni chi wa", "translation": "здравствуйте (днём)" },
+        { "word": "こんばんは", "syllables": "ko n ba n wa", "translation": "добрый вечер" },
+        { "word": "こまる", "syllables": "ko ma ru", "translation": "быть в затруднении" },
+        { "word": "こわい", "syllables": "ko wa i", "translation": "страшный" },
+        { "word": "こい", "syllables": "ko i", "translation": "любовь; густой; карп" },
+        { "word": "こめ", "syllables": "ko me", "translation": "рис (сырой)" }
+      ]
+    },
+    {
+      "char": "さ", "romaji": "sa", "type": "base",
+      "words": [
+        { "word": "さかな", "syllables": "sa ka na", "translation": "рыба" },
+        { "word": "さとう", "syllables": "sa to u", "translation": "сахар" },
+        { "word": "さくら", "syllables": "sa ku ra", "translation": "сакура, вишня" },
+        { "word": "さむい", "syllables": "sa mu i", "translation": "холодный" },
+        { "word": "さいふ", "syllables": "sa i fu", "translation": "кошелёк" },
+        { "word": "さがす", "syllables": "sa ga su", "translation": "искать" },
+        { "word": "さけ", "syllables": "sa ke", "translation": "саке; лосось" },
+        { "word": "さす", "syllables": "sa su", "translation": "указывать, втыкать; наливать" },
+        { "word": "さびしい", "syllables": "sa bi shi i", "translation": "грустный, одинокий" },
+        { "word": "さっき", "syllables": "sa kki", "translation": "только что, недавно" }
+      ]
+    },
+    {
+      "char": "し", "romaji": "shi", "type": "base",
+      "words": [
+        { "word": "しお", "syllables": "shi o", "translation": "соль" },
+        { "word": "しごと", "syllables": "shi go to", "translation": "работа" },
+        { "word": "しろい", "syllables": "shi ro i", "translation": "белый" },
+        { "word": "しま", "syllables": "shi ma", "translation": "остров" },
+        { "word": "しんぶん", "syllables": "shi n bu n", "translation": "газета" },
+        { "word": "しる", "syllables": "shi ru", "translation": "знать" },
+        { "word": "しぬ", "syllables": "shi nu", "translation": "умирать" },
+        { "word": "しゃしん", "syllables": "sha shi n", "translation": "фотография" },
+        { "word": "しつもん", "syllables": "shi tsu mo n", "translation": "вопрос" },
+        { "word": "しんぱい", "syllables": "shi n pa i", "translation": "беспокойство, волнение" }
+      ]
+    },
+    {
+      "char": "す", "romaji": "su", "type": "base",
+      "words": [
+        { "word": "すし", "syllables": "su shi", "translation": "суши" },
+        { "word": "すな", "syllables": "su na", "translation": "песок" },
+        { "word": "すこし", "syllables": "su ko shi", "translation": "немного" },
+        { "word": "すき", "syllables": "su ki", "translation": "нравится; любимый" },
+        { "word": "すず", "syllables": "su zu", "translation": "колокольчик" },
+        { "word": "すむ", "syllables": "su mu", "translation": "жить, проживать" },
+        { "word": "すわる", "syllables": "su wa ru", "translation": "садиться" },
+        { "word": "すてる", "syllables": "su te ru", "translation": "выбрасывать" },
+        { "word": "すごい", "syllables": "su go i", "translation": "потрясающий, ужасный" },
+        { "word": "すいか", "syllables": "su i ka", "translation": "арбуз" }
+      ]
+    },
+    {
+      "char": "せ", "romaji": "se", "type": "base",
+      "words": [
+        { "word": "せかい", "syllables": "se ka i", "translation": "мир" },
+        { "word": "せなか", "syllables": "se na ka", "translation": "спина" },
+        { "word": "せんせい", "syllables": "se n se i", "translation": "учитель" },
+        { "word": "せいと", "syllables": "se i to", "translation": "ученик" },
+        { "word": "せつめい", "syllables": "se tsu me i", "translation": "объяснение" },
+        { "word": "せまい", "syllables": "se ma i", "translation": "узкий, тесный" },
+        { "word": "せかいじゅう", "syllables": "se ka i ju u", "translation": "весь мир, по всему миру" },
+        { "word": "せいかつ", "syllables": "se i ka tsu", "translation": "жизнь, быт" },
+        { "word": "せんたく", "syllables": "se n ta ku", "translation": "стирка" },
+        { "word": "せんぱい", "syllables": "se n pa i", "translation": "старший (по званию, учебе)" }
+      ]
+    },
+    {
+      "char": "そ", "romaji": "so", "type": "base",
+      "words": [
+        { "word": "そら", "syllables": "so ra", "translation": "небо" },
+        { "word": "そと", "syllables": "so to", "translation": "снаружи, на улице" },
+        { "word": "そば", "syllables": "so ba", "translation": "рядом; гречка, соба" },
+        { "word": "そうじ", "syllables": "so u ji", "translation": "уборка" },
+        { "word": "そつぎょう", "syllables": "so tsu gyo u", "translation": "выпуск (из учебного заведения)" },
+        { "word": "そだてる", "syllables": "so da te ru", "translation": "выращивать, воспитывать" },
+        { "word": "そろそろ", "syllables": "so ro so ro", "translation": "потихоньку, пора (уже)" },
+        { "word": "そうだん", "syllables": "so u da n", "translation": "совет, консультация" },
+        { "word": "そん", "syllables": "so n", "translation": "убыток; господин (суффикс)" },
+        { "word": "そろえる", "syllables": "so ro e ru", "translation": "приводить в порядок; выравнивать" }
+      ]
+    },
+    {
+      "char": "た", "romaji": "ta", "type": "base",
+      "words": [
+        { "word": "たまご", "syllables": "ta ma go", "translation": "яйцо" },
+        { "word": "たべる", "syllables": "ta be ru", "translation": "есть, кушать" },
+        { "word": "たかい", "syllables": "ta ka i", "translation": "дорогой; высокий" },
+        { "word": "たち", "syllables": "ta chi", "translation": "меч" },
+        { "word": "たのしい", "syllables": "ta no shi i", "translation": "весёлый, приятный" },
+        { "word": "たぶん", "syllables": "ta bu n", "translation": "наверное, вероятно" },
+        { "word": "たずねる", "syllables": "ta zu ne ru", "translation": "спрашивать; навещать" },
+        { "word": "たて", "syllables": "ta te", "translation": "вертикаль; щит" },
+        { "word": "たばこ", "syllables": "ta ba ko", "translation": "табак, сигареты" },
+        { "word": "たから", "syllables": "ta ka ra", "translation": "сокровище" }
+      ]
+    },
+    {
+      "char": "ち", "romaji": "chi", "type": "base",
+      "words": [
+        { "word": "ちず", "syllables": "chi zu", "translation": "карта (географическая)" },
+        { "word": "ちいさい", "syllables": "chi i sa i", "translation": "маленький" },
+        { "word": "ちから", "syllables": "chi ka ra", "translation": "сила" },
+        { "word": "ちち", "syllables": "chi chi", "translation": "отец (свой)" },
+        { "word": "ちかい", "syllables": "chi ka i", "translation": "близкий" },
+        { "word": "ちがう", "syllables": "chi ga u", "translation": "отличаться; неверно" },
+        { "word": "ちょうど", "syllables": "cho u do", "translation": "как раз, ровно" },
+        { "word": "ちゅうい", "syllables": "chu u i", "translation": "внимание, осторожность" },
+        { "word": "ちきゅう", "syllables": "chi kyu u", "translation": "Земля (планета)" },
+        { "word": "ちり", "syllables": "chi ri", "translation": "пыль; география" }
+      ]
+    },
+    {
+      "char": "つ", "romaji": "tsu", "type": "base",
+      "words": [
+        { "word": "つき", "syllables": "tsu ki", "translation": "луна; месяц" },
+        { "word": "つくえ", "syllables": "tsu ku e", "translation": "стол (письменный)" },
+        { "word": "つめ", "syllables": "tsu me", "translation": "ноготь" },
+        { "word": "つよい", "syllables": "tsu yo i", "translation": "сильный" },
+        { "word": "つばさ", "syllables": "tsu ba sa", "translation": "крыло" },
+        { "word": "つかう", "syllables": "tsu ka u", "translation": "использовать" },
+        { "word": "つかれる", "syllables": "tsu ka re ru", "translation": "уставать" },
+        { "word": "つくる", "syllables": "tsu ku ru", "translation": "делать, создавать" },
+        { "word": "つける", "syllables": "tsu ke ru", "translation": "включать; прикреплять" },
+        { "word": "つぎ", "syllables": "tsu gi", "translation": "следующий" }
+      ]
+    },
+    {
+      "char": "て", "romaji": "te", "type": "base",
+      "words": [
+        { "word": "て", "syllables": "te", "translation": "рука (кисть)" },
+        { "word": "てがみ", "syllables": "te ga mi", "translation": "письмо" },
+        { "word": "てんき", "syllables": "te n ki", "translation": "погода" },
+        { "word": "てつ", "syllables": "te tsu", "translation": "железо" },
+        { "word": "てんぷら", "syllables": "te n pu ra", "translation": "темпура" },
+        { "word": "てつだう", "syllables": "te tsu da u", "translation": "помогать" },
+        { "word": "てをあげる", "syllables": "te o a ge ru", "translation": "поднимать руку" },
+        { "word": "てれび", "syllables": "te re bi", "translation": "телевизор (хирагана)" },
+        { "word": "てき", "syllables": "te ki", "translation": "враг; -ический (суффикс)" },
+        { "word": "てん", "syllables": "te n", "translation": "точка; небеса" }
+      ]
+    },
+    {
+      "char": "と", "romaji": "to", "type": "base",
+      "words": [
+        { "word": "とり", "syllables": "to ri", "translation": "птица" },
+        { "word": "ともだち", "syllables": "to mo da chi", "translation": "друг" },
+        { "word": "とけい", "syllables": "to ke i", "translation": "часы" },
+        { "word": "とおい", "syllables": "to o i", "translation": "далёкий" },
+        { "word": "ところ", "syllables": "to ko ro", "translation": "место" },
+        { "word": "とぶ", "syllables": "to bu", "translation": "летать, прыгать" },
+        { "word": "とまる", "syllables": "to ma ru", "translation": "останавливаться; ночевать" },
+        { "word": "とる", "syllables": "to ru", "translation": "брать, фотографировать" },
+        { "word": "とう", "syllables": "to u", "translation": "башня; восток" },
+        { "word": "とし", "syllables": "to shi", "translation": "год (возраст); город" }
+      ]
+    },
+    {
+      "char": "な", "romaji": "na", "type": "base",
+      "words": [
+        { "word": "なつ", "syllables": "na tsu", "translation": "лето" },
+        { "word": "なまえ", "syllables": "na ma e", "translation": "имя" },
+        { "word": "なみ", "syllables": "na mi", "translation": "волна" },
+        { "word": "なか", "syllables": "na ka", "translation": "внутри, середина" },
+        { "word": "なに", "syllables": "na ni", "translation": "что" },
+        { "word": "なく", "syllables": "na ku", "translation": "плакать" },
+        { "word": "ならう", "syllables": "na ra u", "translation": "учиться, изучать" },
+        { "word": "なれる", "syllables": "na re ru", "translation": "привыкать" },
+        { "word": "ながい", "syllables": "na ga i", "translation": "длинный; долгий" },
+        { "word": "なつやすみ", "syllables": "na tsu ya su mi", "translation": "летние каникулы" }
+      ]
+    },
+    {
+      "char": "に", "romaji": "ni", "type": "base",
+      "words": [
+        { "word": "にく", "syllables": "ni ku", "translation": "мясо" },
+        { "word": "にほん", "syllables": "ni ho n", "translation": "Япония" },
+        { "word": "にし", "syllables": "ni shi", "translation": "запад" },
+        { "word": "にわ", "syllables": "ni wa", "translation": "сад" },
+        { "word": "にがい", "syllables": "ni ga i", "translation": "горький" },
+        { "word": "にる", "syllables": "ni ru", "translation": "варить, готовить" },
+        { "word": "にげる", "syllables": "ni ge ru", "translation": "убегать" },
+        { "word": "にっき", "syllables": "ni kki", "translation": "дневник" },
+        { "word": "にゅうがく", "syllables": "nyu u ga ku", "translation": "поступление в школу" },
+        { "word": "にんじん", "syllables": "ni n ji n", "translation": "морковь" }
+      ]
+    },
+    {
+      "char": "ぬ", "romaji": "nu", "type": "base",
+      "words": [
+        { "word": "ぬの", "syllables": "nu no", "translation": "ткань" },
+        { "word": "ぬま", "syllables": "nu ma", "translation": "болото" },
+        { "word": "ぬるい", "syllables": "nu ru i", "translation": "тёплый (о жидкости); слабый" },
+        { "word": "ぬし", "syllables": "nu shi", "translation": "хозяин, владелец" },
+        { "word": "ぬける", "syllables": "nu ke ru", "translation": "выходить, выпадать" },
+        { "word": "ぬぐ", "syllables": "nu gu", "translation": "вытирать" },
+        { "word": "ぬすむ", "syllables": "nu su mu", "translation": "красть" },
+        { "word": "ぬれる", "syllables": "nu re ru", "translation": "мокнуть, намокать" },
+        { "word": "ぬくもり", "syllables": "nu ku mo ri", "translation": "тепло, уют" },
+        { "word": "ぬか", "syllables": "nu ka", "translation": "рисовые отруби" }
+      ]
+    },
+    {
+      "char": "ね", "romaji": "ne", "type": "base",
+      "words": [
+        { "word": "ねこ", "syllables": "ne ko", "translation": "кошка" },
+        { "word": "ねつ", "syllables": "ne tsu", "translation": "жар, температура" },
+        { "word": "ねだん", "syllables": "ne da n", "translation": "цена" },
+        { "word": "ねむい", "syllables": "ne mu i", "translation": "сонный" },
+        { "word": "ねんれい", "syllables": "ne n re i", "translation": "возраст" },
+        { "word": "ねる", "syllables": "ne ru", "translation": "спать, ложиться" },
+        { "word": "ねがい", "syllables": "ne ga i", "translation": "желание, просьба" },
+        { "word": "ねっしん", "syllables": "ne sshi n", "translation": "усердный, старательный" },
+        { "word": "ねこぜ", "syllables": "ne ko ze", "translation": "сутулость (спина кошки)" },
+        { "word": "ねんまつ", "syllables": "ne n ma tsu", "translation": "конец года" }
+      ]
+    },
+    {
+      "char": "の", "romaji": "no", "type": "base",
+      "words": [
+        { "word": "のり", "syllables": "no ri", "translation": "нори (водоросли)" },
+        { "word": "のど", "syllables": "no do", "translation": "горло" },
+        { "word": "のこぎり", "syllables": "no ko gi ri", "translation": "пила" },
+        { "word": "のむ", "syllables": "no mu", "translation": "пить" },
+        { "word": "のぼる", "syllables": "no bo ru", "translation": "подниматься" },
+        { "word": "のる", "syllables": "no ru", "translation": "ехать (на транспорте)" },
+        { "word": "のこす", "syllables": "no ko su", "translation": "оставлять" },
+        { "word": "のどか", "syllables": "no do ka", "translation": "спокойный, безмятежный" },
+        { "word": "のばす", "syllables": "no ba su", "translation": "тянуть, удлинять" },
+        { "word": "のりかえる", "syllables": "no ri ka e ru", "translation": "пересаживаться (с транспорта на транспорт)" }
+      ]
+    },
+    {
+      "char": "は", "romaji": "ha", "type": "base",
+      "words": [
+        { "word": "はな", "syllables": "ha na", "translation": "цветок" },
+        { "word": "はし", "syllables": "ha shi", "translation": "палочки; мост" },
+        { "word": "はやい", "syllables": "ha ya i", "translation": "быстрый; ранний" },
+        { "word": "はる", "syllables": "ha ru", "translation": "весна" },
+        { "word": "はじめる", "syllables": "ha ji me ru", "translation": "начинать" },
+        { "word": "はしる", "syllables": "ha shi ru", "translation": "бежать" },
+        { "word": "はたらく", "syllables": "ha ta ra ku", "translation": "работать" },
+        { "word": "はいる", "syllables": "ha i ru", "translation": "входить" },
+        { "word": "はこ", "syllables": "ha ko", "translation": "коробка" },
+        { "word": "はん", "syllables": "ha n", "translation": "половина; хан (клан)" }
+      ]
+    },
+    {
+      "char": "ひ", "romaji": "hi", "type": "base",
+      "words": [
+        { "word": "ひと", "syllables": "hi to", "translation": "человек" },
+        { "word": "ひる", "syllables": "hi ru", "translation": "день, полдень" },
+        { "word": "ひかり", "syllables": "hi ka ri", "translation": "свет" },
+        { "word": "ひこうき", "syllables": "hi ko u ki", "translation": "самолёт" },
+        { "word": "ひま", "syllables": "hi ma", "translation": "свободное время" },
+        { "word": "ひく", "syllables": "hi ku", "translation": "тянуть; играть (на струнных)" },
+        { "word": "ひくい", "syllables": "hi ku i", "translation": "низкий" },
+        { "word": "ひつよう", "syllables": "hi tsu yo u", "translation": "необходимость" },
+        { "word": "ひゃく", "syllables": "hya ku", "translation": "сто" },
+        { "word": "ひるごはん", "syllables": "hi ru go ha n", "translation": "обед" }
+      ]
+    },
+    {
+      "char": "ふ", "romaji": "fu", "type": "base",
+      "words": [
+        { "word": "ふゆ", "syllables": "fu yu", "translation": "зима" },
+        { "word": "ふね", "syllables": "fu ne", "translation": "корабль, лодка" },
+        { "word": "ふとん", "syllables": "fu to n", "translation": "футон (постель)" },
+        { "word": "ふるい", "syllables": "fu ru i", "translation": "старый (о вещи)" },
+        { "word": "ふじ", "syllables": "fu ji", "translation": "Фудзи" },
+        { "word": "ふく", "syllables": "fu ku", "translation": "одежда; дуть" },
+        { "word": "ふえる", "syllables": "fu e ru", "translation": "увеличиваться, прибавляться" },
+        { "word": "ふたつ", "syllables": "fu ta tsu", "translation": "два (предмета)" },
+        { "word": "ふべん", "syllables": "fu be n", "translation": "неудобство" },
+        { "word": "ふうとう", "syllables": "fu u to u", "translation": "конверт" }
+      ]
+    },
+    {
+      "char": "へ", "romaji": "he", "type": "base",
+      "words": [
+        { "word": "へや", "syllables": "he ya", "translation": "комната" },
+        { "word": "へび", "syllables": "he bi", "translation": "змея" },
+        { "word": "へた", "syllables": "he ta", "translation": "неумелый" },
+        { "word": "へん", "syllables": "he n", "translation": "странный" },
+        { "word": "へいわ", "syllables": "he i wa", "translation": "мир" },
+        { "word": "へる", "syllables": "he ru", "translation": "уменьшаться" },
+        { "word": "へんじ", "syllables": "he n ji", "translation": "ответ" },
+        { "word": "へそ", "syllables": "he so", "translation": "пупок" },
+        { "word": "へい", "syllables": "he i", "translation": "стена; армия" },
+        { "word": "へいき", "syllables": "he i ki", "translation": "спокойствие; оружие" }
+      ]
+    },
+    {
+      "char": "ほ", "romaji": "ho", "type": "base",
+      "words": [
+        { "word": "ほし", "syllables": "ho shi", "translation": "звезда" },
+        { "word": "ほね", "syllables": "ho ne", "translation": "кость" },
+        { "word": "ほか", "syllables": "ho ka", "translation": "другое, кроме" },
+        { "word": "ほんとう", "syllables": "ho n to u", "translation": "правда" },
+        { "word": "ほそい", "syllables": "ho so i", "translation": "тонкий" },
+        { "word": "ほん", "syllables": "ho n", "translation": "книга" },
+        { "word": "ほめる", "syllables": "ho me ru", "translation": "хвалить" },
+        { "word": "ほしい", "syllables": "ho shi i", "translation": "желаемый, хочется" },
+        { "word": "ほどう", "syllables": "ho do u", "translation": "тротуар" },
+        { "word": "ほけん", "syllables": "ho ke n", "translation": "страхование" }
+      ]
+    },
+    {
+      "char": "ま", "romaji": "ma", "type": "base",
+      "words": [
+        { "word": "まど", "syllables": "ma do", "translation": "окно" },
+        { "word": "まち", "syllables": "ma chi", "translation": "город, квартал" },
+        { "word": "まつ", "syllables": "ma tsu", "translation": "сосна" },
+        { "word": "まるい", "syllables": "ma ru i", "translation": "круглый" },
+        { "word": "まんが", "syllables": "ma n ga", "translation": "манга" },
+        { "word": "まえ", "syllables": "ma e", "translation": "впереди, перед" },
+        { "word": "まがる", "syllables": "ma ga ru", "translation": "поворачивать, сворачивать" },
+        { "word": "まずい", "syllables": "ma zu i", "translation": "невкусный; неудачный" },
+        { "word": "まっすぐ", "syllables": "ma ssu gu", "translation": "прямо" },
+        { "word": "まにあう", "syllables": "ma ni a u", "translation": "успевать (к сроку)" }
+      ]
+    },
+    {
+      "char": "み", "romaji": "mi", "type": "base",
+      "words": [
+        { "word": "みず", "syllables": "mi zu", "translation": "вода" },
+        { "word": "みみ", "syllables": "mi mi", "translation": "ухо" },
+        { "word": "みち", "syllables": "mi chi", "translation": "дорога" },
+        { "word": "みどり", "syllables": "mi do ri", "translation": "зелёный; зелень" },
+        { "word": "みなみ", "syllables": "mi na mi", "translation": "юг" },
+        { "word": "みる", "syllables": "mi ru", "translation": "смотреть" },
+        { "word": "みせる", "syllables": "mi se ru", "translation": "показывать" },
+        { "word": "みじかい", "syllables": "mi ji ka i", "translation": "короткий" },
+        { "word": "みっつ", "syllables": "mi ttsu", "translation": "три (предмета)" },
+        { "word": "みなさん", "syllables": "mi na sa n", "translation": "все, уважаемые (обращение)" }
+      ]
+    },
+    {
+      "char": "む", "romaji": "mu", "type": "base",
+      "words": [
+        { "word": "むし", "syllables": "mu shi", "translation": "насекомое" },
+        { "word": "むら", "syllables": "mu ra", "translation": "деревня" },
+        { "word": "むかし", "syllables": "mu ka shi", "translation": "прошлое, старина" },
+        { "word": "むずかしい", "syllables": "mu zu ka shi i", "translation": "сложный" },
+        { "word": "むぎ", "syllables": "mu gi", "translation": "пшеница, ячмень" },
+        { "word": "むかう", "syllables": "mu ka u", "translation": "направляться (к)" },
+        { "word": "むり", "syllables": "mu ri", "translation": "невозможность, слишком" },
+        { "word": "むね", "syllables": "mu ne", "translation": "грудь" },
+        { "word": "むすこ", "syllables": "mu su ko", "translation": "сын (свой)" },
+        { "word": "むすめ", "syllables": "mu su me", "translation": "дочь (своя)" }
+      ]
+    },
+    {
+      "char": "め", "romaji": "me", "type": "base",
+      "words": [
+        { "word": "め", "syllables": "me", "translation": "глаз" },
+        { "word": "めがね", "syllables": "me ga ne", "translation": "очки" },
+        { "word": "めし", "syllables": "me shi", "translation": "еда (разг.)" },
+        { "word": "めずらしい", "syllables": "me zu ra shi i", "translation": "редкий" },
+        { "word": "めいろ", "syllables": "me i ro", "translation": "лабиринт" },
+        { "word": "めん", "syllables": "me n", "translation": "лапша; лицо; маска" },
+        { "word": "めだつ", "syllables": "me da tsu", "translation": "бросаться в глаза" },
+        { "word": "めったに", "syllables": "me tta ni", "translation": "редко (с отрицанием)" },
+        { "word": "めまい", "syllables": "me ma i", "translation": "головокружение" },
+        { "word": "めいれい", "syllables": "me i re i", "translation": "приказ" }
+      ]
+    },
+    {
+      "char": "も", "romaji": "mo", "type": "base",
+      "words": [
+        { "word": "もり", "syllables": "mo ri", "translation": "лес" },
+        { "word": "もも", "syllables": "mo mo", "translation": "персик; бедро" },
+        { "word": "もの", "syllables": "mo no", "translation": "вещь, предмет" },
+        { "word": "もじ", "syllables": "mo ji", "translation": "буква, символ" },
+        { "word": "もち", "syllables": "mo chi", "translation": "моти (рисовые лепёшки)" },
+        { "word": "もつ", "syllables": "mo tsu", "translation": "держать, нести" },
+        { "word": "もっと", "syllables": "mo tto", "translation": "больше, ещё" },
+        { "word": "もんだい", "syllables": "mo n da i", "translation": "проблема, вопрос (задача)" },
+        { "word": "もどる", "syllables": "mo do ru", "translation": "возвращаться" },
+        { "word": "もうしこむ", "syllables": "mo u shi ko mu", "translation": "подавать заявку, записываться" }
+      ]
+    },
+    {
+      "char": "や", "romaji": "ya", "type": "base",
+      "words": [
+        { "word": "やま", "syllables": "ya ma", "translation": "гора" },
+        { "word": "やおや", "syllables": "ya o ya", "translation": "овощная лавка" },
+        { "word": "やすい", "syllables": "ya su i", "translation": "дешёвый" },
+        { "word": "やさい", "syllables": "ya sa i", "translation": "овощ" },
+        { "word": "やね", "syllables": "ya ne", "translation": "крыша" },
+        { "word": "やく", "syllables": "ya ku", "translation": "сжигать; печь" },
+        { "word": "やくそく", "syllables": "ya ku so ku", "translation": "обещание" },
+        { "word": "やめる", "syllables": "ya me ru", "translation": "прекращать, бросать" },
+        { "word": "やわらかい", "syllables": "ya wa ra ka i", "translation": "мягкий" },
+        { "word": "やちん", "syllables": "ya chi n", "translation": "арендная плата" }
+      ]
+    },
+    {
+      "char": "ゆ", "romaji": "yu", "type": "base",
+      "words": [
+        { "word": "ゆき", "syllables": "yu ki", "translation": "снег" },
+        { "word": "ゆび", "syllables": "yu bi", "translation": "палец" },
+        { "word": "ゆめ", "syllables": "yu me", "translation": "сон, мечта" },
+        { "word": "ゆうがた", "syllables": "yu u ga ta", "translation": "вечер" },
+        { "word": "ゆず", "syllables": "yu zu", "translation": "юдзу (цитрус)" },
+        { "word": "ゆ", "syllables": "yu", "translation": "горячая вода" },
+        { "word": "ゆうめい", "syllables": "yu u me i", "translation": "известный" },
+        { "word": "ゆっくり", "syllables": "yu kku ri", "translation": "медленно, не спеша" },
+        { "word": "ゆしゅつ", "syllables": "yu shu tsu", "translation": "экспорт" },
+        { "word": "ゆうはん", "syllables": "yu u ha n", "translation": "ужин" }
+      ]
+    },
+    {
+      "char": "よ", "romaji": "yo", "type": "base",
+      "words": [
+        { "word": "よる", "syllables": "yo ru", "translation": "ночь" },
+        { "word": "よむ", "syllables": "yo mu", "translation": "читать" },
+        { "word": "よこ", "syllables": "yo ko", "translation": "бок, сторона" },
+        { "word": "よてい", "syllables": "yo te i", "translation": "план, расписание" },
+        { "word": "よろしい", "syllables": "yo ro shi i", "translation": "хорошо, ладно (вежл.)" },
+        { "word": "よぶ", "syllables": "yo bu", "translation": "звать, вызывать" },
+        { "word": "よやく", "syllables": "yo ya ku", "translation": "бронирование, заказ" },
+        { "word": "よごれる", "syllables": "yo go re ru", "translation": "пачкаться" },
+        { "word": "よのなか", "syllables": "yo no na ka", "translation": "окружающий мир, общество" },
+        { "word": "よっぱらい", "syllables": "yo ppa ra i", "translation": "пьяный" }
+      ]
+    },
+    {
+      "char": "ら", "romaji": "ra", "type": "base",
+      "words": [
+        { "word": "らいねん", "syllables": "ra i ne n", "translation": "следующий год" },
+        { "word": "らいおん", "syllables": "ra i o n", "translation": "лев" },
+        { "word": "らく", "syllables": "ra ku", "translation": "легко, комфортно" },
+        { "word": "らじお", "syllables": "ra ji o", "translation": "радио" },
+        { "word": "らくだ", "syllables": "ra ku da", "translation": "верблюд" },
+        { "word": "からだ", "syllables": "ka ra da", "translation": "тело (ら в середине)" },
+        { "word": "さくら", "syllables": "sa ku ra", "translation": "сакура (ра в конце)" },
+        { "word": "きらい", "syllables": "ki ra i", "translation": "нелюбимый (ра в середине)" },
+        { "word": "あたらしい", "syllables": "a ta ra shi i", "translation": "новый (ра в середине)" },
+        { "word": "やわらかい", "syllables": "ya wa ra ka i", "translation": "мягкий (ра в середине)" }
+      ]
+    },
+    {
+      "char": "り", "romaji": "ri", "type": "base",
+      "words": [
+        { "word": "りんご", "syllables": "ri n go", "translation": "яблоко" },
+        { "word": "りょうり", "syllables": "ryo u ri", "translation": "кулинария, блюдо" },
+        { "word": "りゆう", "syllables": "ri yu u", "translation": "причина" },
+        { "word": "りかい", "syllables": "ri ka i", "translation": "понимание" },
+        { "word": "りく", "syllables": "ri ku", "translation": "земля, суша" },
+        { "word": "りょこう", "syllables": "ryo ko u", "translation": "путешествие" },
+        { "word": "りべん", "syllables": "ri be n", "translation": "удобство (устар.)" },
+        { "word": "とり", "syllables": "to ri", "translation": "птица (ри в конце)" },
+        { "word": "はしり", "syllables": "ha shi ri", "translation": "бег (ри в конце)" },
+        { "word": "つくり", "syllables": "tsu ku ri", "translation": "изготовление, покрой (ри в конце)" }
+      ]
+    },
+    {
+      "char": "る", "romaji": "ru", "type": "base",
+      "words": [
+        { "word": "るす", "syllables": "ru su", "translation": "отсутствие дома" },
+        { "word": "るーる", "syllables": "ru u ru", "translation": "правило" },
+        { "word": "よる", "syllables": "yo ru", "translation": "ночь (る в конце)" },
+        { "word": "みる", "syllables": "mi ru", "translation": "смотреть (る в конце)" },
+        { "word": "くる", "syllables": "ku ru", "translation": "приходить (る в конце)" },
+        { "word": "とる", "syllables": "to ru", "translation": "брать (ру в конце)" },
+        { "word": "はる", "syllables": "ha ru", "translation": "весна (ру в конце)" },
+        { "word": "よるごはん", "syllables": "yo ru go ha n", "translation": "ужин (ру в середине)" },
+        { "word": "くるま", "syllables": "ku ru ma", "translation": "машина (ру в середине)" },
+        { "word": "はしる", "syllables": "ha shi ru", "translation": "бежать (ру в конце)" }
+      ]
+    },
+    {
+      "char": "れ", "romaji": "re", "type": "base",
+      "words": [
+        { "word": "れきし", "syllables": "re ki shi", "translation": "история" },
+        { "word": "れい", "syllables": "re i", "translation": "пример; ноль" },
+        { "word": "れんしゅう", "syllables": "re n shu u", "translation": "тренировка" },
+        { "word": "れんらく", "syllables": "re n ra ku", "translation": "связь, контакт" },
+        { "word": "れいぞうこ", "syllables": "re i zo u ko", "translation": "холодильник" },
+        { "word": "れつ", "syllables": "re tsu", "translation": "очередь, ряд" },
+        { "word": "これ", "syllables": "ko re", "translation": "это (ре в конце)" },
+        { "word": "それ", "syllables": "so re", "translation": "то (ре в конце)" },
+        { "word": "あれ", "syllables": "a re", "translation": "вон то (ре в конце)" },
+        { "word": "だれ", "syllables": "da re", "translation": "кто (ре в конце)" }
+      ]
+    },
+    {
+      "char": "ろ", "romaji": "ro", "type": "base",
+      "words": [
+        { "word": "ろく", "syllables": "ro ku", "translation": "шесть" },
+        { "word": "ろうか", "syllables": "ro u ka", "translation": "коридор" },
+        { "word": "ろば", "syllables": "ro ba", "translation": "осёл" },
+        { "word": "ろんぶん", "syllables": "ro n bu n", "translation": "статья, диссертация" },
+        { "word": "ろくがつ", "syllables": "ro ku ga tsu", "translation": "июнь" },
+        { "word": "ろくに", "syllables": "ro ku ni", "translation": "как следует (с отрицанием)" },
+        { "word": "ところ", "syllables": "to ko ro", "translation": "место (ро в конце)" },
+        { "word": "しろ", "syllables": "shi ro", "translation": "белый (ро в конце)" },
+        { "word": "いろ", "syllables": "i ro", "translation": "цвет (ро в конце)" },
+        { "word": "ひろい", "syllables": "hi ro i", "translation": "широкий (ро в середине)" }
+      ]
+    },
+    {
+      "char": "わ", "romaji": "wa", "type": "base",
+      "words": [
+        { "word": "わたし", "syllables": "wa ta shi", "translation": "я" },
+        { "word": "わかる", "syllables": "wa ka ru", "translation": "понимать" },
+        { "word": "わすれる", "syllables": "wa su re ru", "translation": "забывать" },
+        { "word": "わるい", "syllables": "wa ru i", "translation": "плохой" },
+        { "word": "わかい", "syllables": "wa ka i", "translation": "молодой" },
+        { "word": "わらう", "syllables": "wa ra u", "translation": "смеяться" },
+        { "word": "わける", "syllables": "wa ke ru", "translation": "делить, разделять" },
+        { "word": "わふく", "syllables": "wa fu ku", "translation": "японская одежда" },
+        { "word": "わがはい", "syllables": "wa ga ha i", "translation": "я (устар., «собственной персоной»)" },
+        { "word": "わりあい", "syllables": "wa ri a i", "translation": "пропорция; сравнительно" }
+      ]
+    },
+    {
+      "char": "を", "romaji": "wo", "type": "base",
+      "words": [
+        { "word": "を", "syllables": "wo", "translation": "частица винительного падежа" },
+        { "word": "をば", "syllables": "wo ba", "translation": "усиленная частица (устар.)" },
+        { "word": "をこ", "syllables": "wo ko", "translation": "устар. дитя, ребёнок" },
+        { "word": "をとこ", "syllables": "wo to ko", "translation": "устар. мужчина" },
+        { "word": "をんな", "syllables": "wo n na", "translation": "устар. женщина" },
+        { "word": "みずをのむ", "syllables": "mi zu wo no mu", "translation": "пить воду (を в середине)" },
+        { "word": "ほんをよむ", "syllables": "ho n wo yo mu", "translation": "читать книгу (を в середине)" },
+        { "word": "ごはんをたべる", "syllables": "go ha n wo ta be ru", "translation": "есть еду (を в середине)" },
+        { "word": "てがみをかく", "syllables": "te ga mi wo ka ku", "translation": "писать письмо (を в середине)" },
+        { "word": "えいがをみる", "syllables": "e i ga wo mi ru", "translation": "смотреть фильм (を в середине)" }
+      ]
+    },
+    {
+      "char": "ん", "romaji": "n", "type": "base",
+      "words": [
+        { "word": "ほん", "syllables": "ho n", "translation": "книга" },
+        { "word": "ぱん", "syllables": "pa n", "translation": "хлеб (катакана)" },
+        { "word": "でんわ", "syllables": "de n wa", "translation": "телефон" },
+        { "word": "にほん", "syllables": "ni ho n", "translation": "Япония" },
+        { "word": "しんぶん", "syllables": "shi n bu n", "translation": "газета" },
+        { "word": "みかん", "syllables": "mi ka n", "translation": "мандарин" },
+        { "word": "ぎんこう", "syllables": "gi n ko u", "translation": "банк" },
+        { "word": "えんぴつ", "syllables": "e n pi tsu", "translation": "карандаш" },
+        { "word": "せんせい", "syllables": "se n se i", "translation": "учитель" },
+        { "word": "こんにちは", "syllables": "ko n ni chi wa", "translation": "здравствуйте" }
+      ]
+    },
+    {
+      "char": "が", "romaji": "ga", "type": "dakuten",
+      "words": [
+        { "word": "がくせい", "syllables": "ga ku se i", "translation": "студент" },
+        { "word": "がいこく", "syllables": "ga i ko ku", "translation": "заграница" },
+        { "word": "がっこう", "syllables": "ga kko u", "translation": "школа" },
+        { "word": "がまん", "syllables": "ga ma n", "translation": "терпение" },
+        { "word": "がぞう", "syllables": "ga zo u", "translation": "изображение" },
+        { "word": "がく", "syllables": "ga ku", "translation": "наука, учёба" },
+        { "word": "がいこくじん", "syllables": "ga i ko ku ji n", "translation": "иностранец" },
+        { "word": "がっき", "syllables": "ga kki", "translation": "музыкальный инструмент" },
+        { "word": "がんばる", "syllables": "ga n ba ru", "translation": "стараться, усердствовать" },
+        { "word": "がようし", "syllables": "ga yo u shi", "translation": "бумага для рисования" }
+      ]
+    },
+    {
+      "char": "ぎ", "romaji": "gi", "type": "dakuten",
+      "words": [
+        { "word": "ぎん", "syllables": "gi n", "translation": "серебро" },
+        { "word": "ぎゅうにゅう", "syllables": "gyu u nyu u", "translation": "молоко" },
+        { "word": "ぎし", "syllables": "gi shi", "translation": "инженер" },
+        { "word": "ぎょうざ", "syllables": "gyo u za", "translation": "гёдза" },
+        { "word": "ぎんこう", "syllables": "gi n ko u", "translation": "банк" },
+        { "word": "ぎゅうにく", "syllables": "gyu u ni ku", "translation": "говядина" },
+        { "word": "ぎじゅつ", "syllables": "gi ju tsu", "translation": "технология, техника" },
+        { "word": "ぎゃく", "syllables": "gya ku", "translation": "обратный, наоборот" },
+        { "word": "ぎょうれつ", "syllables": "gyo u re tsu", "translation": "очередь" },
+        { "word": "ぎり", "syllables": "gi ri", "translation": "долг, обязанность" }
+      ]
+    },
+    {
+      "char": "ぐ", "romaji": "gu", "type": "dakuten",
+      "words": [
+        { "word": "ぐんて", "syllables": "gu n te", "translation": "перчатки (рабочие)" },
+        { "word": "ぐあい", "syllables": "gu a i", "translation": "самочувствие, состояние" },
+        { "word": "ぐんたい", "syllables": "gu n ta i", "translation": "армия" },
+        { "word": "ぐるぐる", "syllables": "gu ru gu ru", "translation": "кружение" },
+        { "word": "ぐうぜん", "syllables": "gu u ze n", "translation": "случайность" },
+        { "word": "ぐず", "syllables": "gu zu", "translation": "медлительный (разг.)" },
+        { "word": "ぐち", "syllables": "gu chi", "translation": "жалоба, ворчание" },
+        { "word": "ぐんぐん", "syllables": "gu n gu n", "translation": "стремительно" },
+        { "word": "ぐらぐら", "syllables": "gu ra gu ra", "translation": "шаткий, качающийся" },
+        { "word": "ぐうたら", "syllables": "gu u ta ra", "translation": "лентяй" }
+      ]
+    },
+    {
+      "char": "げ", "romaji": "ge", "type": "dakuten",
+      "words": [
+        { "word": "げんき", "syllables": "ge n ki", "translation": "здоровье, бодрость" },
+        { "word": "げつようび", "syllables": "ge tsu yo u bi", "translation": "понедельник" },
+        { "word": "げき", "syllables": "ge ki", "translation": "пьеса, драма" },
+        { "word": "げんいん", "syllables": "ge n i n", "translation": "причина" },
+        { "word": "げんご", "syllables": "ge n go", "translation": "язык" },
+        { "word": "げんじつ", "syllables": "ge n ji tsu", "translation": "реальность" },
+        { "word": "げんざい", "syllables": "ge n za i", "translation": "настоящее время" },
+        { "word": "げしゃ", "syllables": "ge sha", "translation": "выход из транспорта" },
+        { "word": "げんば", "syllables": "ge n ba", "translation": "место работы, объект" },
+        { "word": "げーむ", "syllables": "ge e mu", "translation": "игра (хирагана)" }
+      ]
+    },
+    {
+      "char": "ご", "romaji": "go", "type": "dakuten",
+      "words": [
+        { "word": "ごはん", "syllables": "go ha n", "translation": "рис, еда" },
+        { "word": "ごご", "syllables": "go go", "translation": "после обеда" },
+        { "word": "ごみ", "syllables": "go mi", "translation": "мусор" },
+        { "word": "ごらく", "syllables": "go ra ku", "translation": "развлечение" },
+        { "word": "ごかく", "syllables": "go ka ku", "translation": "пять углов" },
+        { "word": "ごぜん", "syllables": "go ze n", "translation": "до обеда, утро" },
+        { "word": "ごかい", "syllables": "go ka i", "translation": "недоразумение" },
+        { "word": "ごうか", "syllables": "go u ka", "translation": "роскошный" },
+        { "word": "ごうとう", "syllables": "go u to u", "translation": "грабёж, кража" },
+        { "word": "ごめん", "syllables": "go me n", "translation": "извини (разг.)" }
+      ]
+    },
+    {
+      "char": "ざ", "romaji": "za", "type": "dakuten",
+      "words": [
+        { "word": "ざっし", "syllables": "za sshi", "translation": "журнал" },
+        { "word": "ざいりょう", "syllables": "za i ryo u", "translation": "ингредиенты, материалы" },
+        { "word": "ざんねん", "syllables": "za n ne n", "translation": "жаль, досадно" },
+        { "word": "ざる", "syllables": "za ru", "translation": "сито, дуршлаг" },
+        { "word": "ざひょう", "syllables": "za hyo u", "translation": "координаты" },
+        { "word": "ざいがく", "syllables": "za i ga ku", "translation": "обучение в школе/вузе" },
+        { "word": "ざんぎょう", "syllables": "za n gyo u", "translation": "сверхурочная работа" },
+        { "word": "ざつおん", "syllables": "za tsu o n", "translation": "шум, помехи" },
+        { "word": "ざいさん", "syllables": "za i sa n", "translation": "имущество, состояние" },
+        { "word": "ざっく", "syllables": "za kku", "translation": "рюкзак (сокр.)" }
+      ]
+    },
+    {
+      "char": "じ", "romaji": "ji", "type": "dakuten",
+      "words": [
+        { "word": "じかん", "syllables": "ji ka n", "translation": "время" },
+        { "word": "じしん", "syllables": "ji shi n", "translation": "землетрясение" },
+        { "word": "じてんしゃ", "syllables": "ji te n sha", "translation": "велосипед" },
+        { "word": "じぶん", "syllables": "ji bu n", "translation": "себя" },
+        { "word": "じむしょ", "syllables": "ji mu sho", "translation": "офис" },
+        { "word": "じしょ", "syllables": "ji sho", "translation": "словарь" },
+        { "word": "じゅう", "syllables": "ju u", "translation": "десять" },
+        { "word": "じゅぎょう", "syllables": "ju gyo u", "translation": "урок, занятие" },
+        { "word": "じょうず", "syllables": "jo u zu", "translation": "умелый, ловкий" },
+        { "word": "じこく", "syllables": "ji ko ku", "translation": "время (по часам)" }
+      ]
+    },
+    {
+      "char": "ず", "romaji": "zu", "type": "dakuten",
+      "words": [
+        { "word": "ずかん", "syllables": "zu ka n", "translation": "иллюстрированная книга" },
+        { "word": "ずつう", "syllables": "zu tsu u", "translation": "головная боль" },
+        { "word": "ずこう", "syllables": "zu ko u", "translation": "рисование" },
+        { "word": "ずるい", "syllables": "zu ru i", "translation": "хитрый, нечестный" },
+        { "word": "ずぼん", "syllables": "zu bo n", "translation": "брюки" },
+        { "word": "ずいぶん", "syllables": "zu i bu n", "translation": "довольно, значительно" },
+        { "word": "ずつ", "syllables": "zu tsu", "translation": "по, поровну (суффикс)" },
+        { "word": "ずれ", "syllables": "zu re", "translation": "сдвиг, разница" },
+        { "word": "ずらり", "syllables": "zu ra ri", "translation": "в ряд, вереницей" },
+        { "word": "ずぶぬれ", "syllables": "zu bu nu re", "translation": "промокший насквозь" }
+      ]
+    },
+    {
+      "char": "ぜ", "romaji": "ze", "type": "dakuten",
+      "words": [
+        { "word": "ぜんぶ", "syllables": "ze n bu", "translation": "всё" },
+        { "word": "ぜいきん", "syllables": "ze i ki n", "translation": "налог" },
+        { "word": "ぜんいん", "syllables": "ze n i n", "translation": "все" },
+        { "word": "ぜったい", "syllables": "ze tta i", "translation": "абсолютно, обязательно" },
+        { "word": "ぜんぜん", "syllables": "ze n ze n", "translation": "совсем (с отрицанием)" },
+        { "word": "ぜひ", "syllables": "ze hi", "translation": "обязательно, непременно" },
+        { "word": "ぜんぶん", "syllables": "ze n bu n", "translation": "весь текст" },
+        { "word": "ぜんしゃ", "syllables": "ze n sha", "translation": "передняя машина" },
+        { "word": "せぜ", "syllables": "se ze", "translation": "мелководье (ぜ в конце)" },
+        { "word": "ぜんまい", "syllables": "ze n ma i", "translation": "пружина, завод" }
+      ]
+    },
+    {
+      "char": "ぞ", "romaji": "zo", "type": "dakuten",
+      "words": [
+        { "word": "ぞう", "syllables": "zo u", "translation": "слон" },
+        { "word": "ぞうきん", "syllables": "zo u ki n", "translation": "тряпка" },
+        { "word": "ぞくぞく", "syllables": "zo ku zo ku", "translation": "дрожь; один за другим" },
+        { "word": "ぞくに", "syllables": "zo ku ni", "translation": "народу, публике" },
+        { "word": "ぞうさく", "syllables": "zo u sa ku", "translation": "создание, изготовление" },
+        { "word": "ぞうり", "syllables": "zo u ri", "translation": "дзори (сандалии)" },
+        { "word": "ぞんざい", "syllables": "zo n za i", "translation": "грубый, небрежный" },
+        { "word": "ぞっと", "syllables": "zo tto", "translation": "содрогаться, жутко" },
+        { "word": "ぞくする", "syllables": "zo ku su ru", "translation": "принадлежать" },
+        { "word": "ぞうげ", "syllables": "zo u ge", "translation": "слоновая кость" }
+      ]
+    },
+    {
+      "char": "だ", "romaji": "da", "type": "dakuten",
+      "words": [
+        { "word": "だいがく", "syllables": "da i ga ku", "translation": "университет" },
+        { "word": "だいどころ", "syllables": "da i do ko ro", "translation": "кухня" },
+        { "word": "だれ", "syllables": "da re", "translation": "кто" },
+        { "word": "だんぼーる", "syllables": "da n bo o ru", "translation": "картон" },
+        { "word": "だんけ", "syllables": "da n ke", "translation": "различие" },
+        { "word": "だいじょうぶ", "syllables": "da i jo u bu", "translation": "всё в порядке, не страшно" },
+        { "word": "だす", "syllables": "da su", "translation": "выдавать, отправлять" },
+        { "word": "だれか", "syllables": "da re ka", "translation": "кто-то" },
+        { "word": "だいすき", "syllables": "da i su ki", "translation": "очень любимый" },
+        { "word": "だいたい", "syllables": "da i ta i", "translation": "примерно, в целом" }
+      ]
+    },
+    {
+      "char": "ぢ", "romaji": "ji", "type": "dakuten", "rare": true,
+      "words": [
+        { "word": "はなぢ", "syllables": "ha na ji", "translation": "кровь из носа" },
+        { "word": "ちぢむ", "syllables": "chi ji mu", "translation": "сжиматься, сокращаться" },
+        { "word": "ちぢれる", "syllables": "chi ji re ru", "translation": "кудрявиться" },
+        { "word": "みぢか", "syllables": "mi ji ka", "translation": "близкий, знакомый" },
+        { "word": "ちぢまる", "syllables": "chi ji ma ru", "translation": "сжиматься (вариант)" },
+        { "word": "ちぢかい", "syllables": "chi ji ka i", "translation": "близкий (устар.)" },
+        { "word": "ちぢ", "syllables": "chi ji", "translation": "сжатие (основа)" },
+        { "word": "はなぢがでる", "syllables": "ha na ji ga de ru", "translation": "идёт кровь из носа" },
+        { "word": "ちぢれげ", "syllables": "chi ji re ge", "translation": "кудрявые волосы" },
+        { "word": "ちぢみ", "syllables": "chi ji mi", "translation": "усадка (ткани)" }
+      ]
+    },
+    {
+      "char": "づ", "romaji": "zu", "type": "dakuten", "rare": true,
+      "words": [
+        { "word": "つづく", "syllables": "tsu zu ku", "translation": "продолжаться" },
+        { "word": "つづり", "syllables": "tsu zu ri", "translation": "правописание, орфография" },
+        { "word": "かづ", "syllables": "ka zu", "translation": "устар. имя" },
+        { "word": "みづ", "syllables": "mi zu", "translation": "устар. вода" },
+        { "word": "つづける", "syllables": "tsu zu ke ru", "translation": "продолжать (что-то делать)" },
+        { "word": "つづみ", "syllables": "tsu zu mi", "translation": "барабан (традиционный)" },
+        { "word": "つづら", "syllables": "tsu zu ra", "translation": "плетёный сундук" },
+        { "word": "いづれ", "syllables": "i zu re", "translation": "когда-нибудь; любой из" },
+        { "word": "みづき", "syllables": "mi zu ki", "translation": "устар. месяц (календарный)" },
+        { "word": "こづち", "syllables": "ko zu chi", "translation": "молоток (устар.)" }
+      ]
+    },
+    {
+      "char": "で", "romaji": "de", "type": "dakuten",
+      "words": [
+        { "word": "でんわ", "syllables": "de n wa", "translation": "телефон" },
+        { "word": "でぐち", "syllables": "de gu chi", "translation": "выход" },
+        { "word": "でんしゃ", "syllables": "de n sha", "translation": "электричка" },
+        { "word": "できる", "syllables": "de ki ru", "translation": "мочь, уметь" },
+        { "word": "でこぼこ", "syllables": "de ko bo ko", "translation": "неровность" },
+        { "word": "でる", "syllables": "de ru", "translation": "выходить" },
+        { "word": "でんき", "syllables": "de n ki", "translation": "электричество" },
+        { "word": "でんとう", "syllables": "de n to u", "translation": "традиция" },
+        { "word": "でかける", "syllables": "de ka ke ru", "translation": "выходить из дома (по делам)" },
+        { "word": "でむかえる", "syllables": "de mu ka e ru", "translation": "встречать (гостя)" }
+      ]
+    },
+    {
+      "char": "ど", "romaji": "do", "type": "dakuten",
+      "words": [
+        { "word": "どあ", "syllables": "do a", "translation": "дверь" },
+        { "word": "どうぶつ", "syllables": "do u bu tsu", "translation": "животное" },
+        { "word": "どこ", "syllables": "do ko", "translation": "где" },
+        { "word": "どろ", "syllables": "do ro", "translation": "грязь" },
+        { "word": "どくしょ", "syllables": "do ku sho", "translation": "чтение" },
+        { "word": "どう", "syllables": "do u", "translation": "как, каким образом" },
+        { "word": "どれ", "syllables": "do re", "translation": "который (из)" },
+        { "word": "どんどん", "syllables": "do n do n", "translation": "быстро, всё больше" },
+        { "word": "どなる", "syllables": "do na ru", "translation": "кричать, орать" },
+        { "word": "どりょく", "syllables": "do ryo ku", "translation": "усилие, старание" }
+      ]
+    },
+    {
+      "char": "ば", "romaji": "ba", "type": "dakuten",
+      "words": [
+        { "word": "ばす", "syllables": "ba su", "translation": "автобус" },
+        { "word": "ばんごう", "syllables": "ba n go u", "translation": "номер" },
+        { "word": "ばしょ", "syllables": "ba sho", "translation": "место" },
+        { "word": "ばら", "syllables": "ba ra", "translation": "роза" },
+        { "word": "ばん", "syllables": "ba n", "translation": "вечер" },
+        { "word": "ばい", "syllables": "ba i", "translation": "удвоение, двойной" },
+        { "word": "ばか", "syllables": "ba ka", "translation": "дурак, глупость" },
+        { "word": "ばける", "syllables": "ba ke ru", "translation": "превращаться" },
+        { "word": "ばしょう", "syllables": "ba sho u", "translation": "банан" },
+        { "word": "ばんのう", "syllables": "ba n no u", "translation": "универсальный" }
+      ]
+    },
+    {
+      "char": "び", "romaji": "bi", "type": "dakuten",
+      "words": [
+        { "word": "びょういん", "syllables": "byo u i n", "translation": "больница" },
+        { "word": "びっくり", "syllables": "bi kku ri", "translation": "удивление" },
+        { "word": "びじゅつ", "syllables": "bi ju tsu", "translation": "искусство" },
+        { "word": "びん", "syllables": "bi n", "translation": "бутылка" },
+        { "word": "びょうき", "syllables": "byo u ki", "translation": "болезнь" },
+        { "word": "びよういん", "syllables": "bi yo u i n", "translation": "салон красоты" },
+        { "word": "びせき", "syllables": "bi se ki", "translation": "красивый пейзаж" },
+        { "word": "びみょう", "syllables": "bi myo u", "translation": "тонкий, деликатный" },
+        { "word": "びりびり", "syllables": "bi ri bi ri", "translation": "рвущийся звук" },
+        { "word": "びっしり", "syllables": "bi sshi ri", "translation": "плотно, битком" }
+      ]
+    },
+    {
+      "char": "ぶ", "romaji": "bu", "type": "dakuten",
+      "words": [
+        { "word": "ぶた", "syllables": "bu ta", "translation": "свинья" },
+        { "word": "ぶんか", "syllables": "bu n ka", "translation": "культура" },
+        { "word": "ぶどう", "syllables": "bu do u", "translation": "виноград" },
+        { "word": "ぶんぽう", "syllables": "bu n po u", "translation": "грамматика" },
+        { "word": "ぶたにく", "syllables": "bu ta ni ku", "translation": "свинина" },
+        { "word": "ぶじ", "syllables": "bu ji", "translation": "благополучно" },
+        { "word": "ぶんがく", "syllables": "bu n ga ku", "translation": "литература" },
+        { "word": "ぶつ", "syllables": "bu tsu", "translation": "бить, ударять" },
+        { "word": "ぶか", "syllables": "bu ka", "translation": "подчинённый" },
+        { "word": "ぶんめい", "syllables": "bu n me i", "translation": "цивилизация" }
+      ]
+    },
+    {
+      "char": "べ", "romaji": "be", "type": "dakuten",
+      "words": [
+        { "word": "べんきょう", "syllables": "be n kyo u", "translation": "учёба" },
+        { "word": "べんとう", "syllables": "be n to u", "translation": "бенто" },
+        { "word": "べつ", "syllables": "be tsu", "translation": "отдельно, другой" },
+        { "word": "べんり", "syllables": "be n ri", "translation": "удобный" },
+        { "word": "べに", "syllables": "be ni", "translation": "помада, румяна" },
+        { "word": "べんごし", "syllables": "be n go shi", "translation": "адвокат" },
+        { "word": "べんき", "syllables": "be n ki", "translation": "удобство, благо" },
+        { "word": "べっそう", "syllables": "be sso u", "translation": "вилла, дача" },
+        { "word": "べつべつ", "syllables": "be tsu be tsu", "translation": "по отдельности" },
+        { "word": "べんけい", "syllables": "be n ke i", "translation": "Бэнкэй (имя героя)" }
+      ]
+    },
+    {
+      "char": "ぼ", "romaji": "bo", "type": "dakuten",
+      "words": [
+        { "word": "ぼうし", "syllables": "bo u shi", "translation": "шляпа" },
+        { "word": "ぼく", "syllables": "bo ku", "translation": "я (муж.)" },
+        { "word": "ぼうえき", "syllables": "bo u e ki", "translation": "торговля" },
+        { "word": "ぼたん", "syllables": "bo ta n", "translation": "кнопка" },
+        { "word": "ぼんおどり", "syllables": "bo n o do ri", "translation": "бон одори" },
+        { "word": "ぼう", "syllables": "bo u", "translation": "палка, жезл" },
+        { "word": "ぼうけん", "syllables": "bo u ke n", "translation": "приключение" },
+        { "word": "ぼんやり", "syllables": "bo n ya ri", "translation": "рассеянно, смутно" },
+        { "word": "ぼやく", "syllables": "bo ya ku", "translation": "ворчать, жаловаться" },
+        { "word": "ぼうりょく", "syllables": "bo u ryo ku", "translation": "насилие" }
+      ]
+    },
+    {
+      "char": "ぱ", "romaji": "pa", "type": "handakuten",
+      "words": [
+        { "word": "ぱん", "syllables": "pa n", "translation": "хлеб" },
+        { "word": "ぱんや", "syllables": "pa n ya", "translation": "пекарня" },
+        { "word": "ぱそこん", "syllables": "pa so ko n", "translation": "компьютер" },
+        { "word": "ぱーてぃー", "syllables": "pa a ti i", "translation": "вечеринка" },
+        { "word": "ぱじゃま", "syllables": "pa ja ma", "translation": "пижама" },
+        { "word": "ぱせり", "syllables": "pa se ri", "translation": "петрушка" },
+        { "word": "ぱんく", "syllables": "pa n ku", "translation": "прокол (шины); панк" },
+        { "word": "ぱくぱく", "syllables": "pa ku pa ku", "translation": "быстро есть, чавкать" },
+        { "word": "ぱらぱら", "syllables": "pa ra pa ra", "translation": "моросить; листать" },
+        { "word": "ぱちぱち", "syllables": "pa chi pa chi", "translation": "хлопать, трещать" }
+      ]
+    },
+    {
+      "char": "ぴ", "romaji": "pi", "type": "handakuten",
+      "words": [
+        { "word": "ぴかぴか", "syllables": "pi ka pi ka", "translation": "блестящий, сверкающий" },
+        { "word": "ぴかそ", "syllables": "pi ka so", "translation": "Пикассо" },
+        { "word": "ぴあの", "syllables": "pi a no", "translation": "пианино" },
+        { "word": "ぴーまん", "syllables": "pi i ma n", "translation": "болгарский перец" },
+        { "word": "ぴったり", "syllables": "pi tta ri", "translation": "точно, как раз" },
+        { "word": "ぴんく", "syllables": "pi n ku", "translation": "розовый" },
+        { "word": "ぴざ", "syllables": "pi za", "translation": "пицца" },
+        { "word": "ぴりぴり", "syllables": "pi ri pi ri", "translation": "остро; нервозно" },
+        { "word": "ぴよぴよ", "syllables": "pi yo pi yo", "translation": "писк цыплёнка" },
+        { "word": "ぴんと", "syllables": "pi n to", "translation": "натянуто; сразу (понять)" }
+      ]
+    },
+    {
+      "char": "ぷ", "romaji": "pu", "type": "handakuten",
+      "words": [
+        { "word": "ぷーる", "syllables": "pu u ru", "translation": "бассейн" },
+        { "word": "ぷりん", "syllables": "pu ri n", "translation": "пудинг" },
+        { "word": "ぷろ", "syllables": "pu ro", "translation": "профи, профессионал" },
+        { "word": "ぷらす", "syllables": "pu ra su", "translation": "плюс" },
+        { "word": "ぷれぜんと", "syllables": "pu re ze n to", "translation": "подарок" },
+        { "word": "ぷらん", "syllables": "pu ra n", "translation": "план" },
+        { "word": "ぷらすちっく", "syllables": "pu ra su chi kku", "translation": "пластик" },
+        { "word": "ぷくぷく", "syllables": "pu ku pu ku", "translation": "пухлый, полненький" },
+        { "word": "ぷるぷる", "syllables": "pu ru pu ru", "translation": "дрожать, трястись" },
+        { "word": "ぷすぷす", "syllables": "pu su pu su", "translation": "дымиться, шипеть" }
+      ]
+    },
+    {
+      "char": "ぺ", "romaji": "pe", "type": "handakuten",
+      "words": [
+        { "word": "ぺらぺら", "syllables": "pe ra pe ra", "translation": "бегло (о речи); тонкий" },
+        { "word": "ぺきん", "syllables": "pe ki n", "translation": "Пекин" },
+        { "word": "ぺこぺこ", "syllables": "pe ko pe ko", "translation": "голодный; кланяться" },
+        { "word": "ぺーじ", "syllables": "pe e ji", "translation": "страница" },
+        { "word": "ぺん", "syllables": "pe n", "translation": "ручка" },
+        { "word": "ぺっと", "syllables": "pe tto", "translation": "питомец" },
+        { "word": "ぺーす", "syllables": "pe e su", "translation": "темп, скорость" },
+        { "word": "ぺんき", "syllables": "pe n ki", "translation": "краска" },
+        { "word": "ぺらり", "syllables": "pe ra ri", "translation": "один лист (счёт)" },
+        { "word": "ぺちゃくちゃ", "syllables": "pe cha ku cha", "translation": "болтать без умолку" }
+      ]
+    },
+    {
+      "char": "ぽ", "romaji": "po", "type": "handakuten",
+      "words": [
+        { "word": "ぽけっと", "syllables": "po ke tto", "translation": "карман" },
+        { "word": "ぽすと", "syllables": "po su to", "translation": "почта, почтовый ящик" },
+        { "word": "ぽい", "syllables": "po i", "translation": "бросок; склонность (суффикс)" },
+        { "word": "ぽかぽか", "syllables": "po ka po ka", "translation": "тепло, уютно" },
+        { "word": "ぽたぽた", "syllables": "po ta po ta", "translation": "капать" },
+        { "word": "ぽろぽろ", "syllables": "po ro po ro", "translation": "сыпаться; плакать" },
+        { "word": "ぽつぽつ", "syllables": "po tsu po tsu", "translation": "потихоньку; капать" },
+        { "word": "ぽんぽん", "syllables": "po n po n", "translation": "хлопать; животик" },
+        { "word": "ぽーず", "syllables": "po o zu", "translation": "поза" },
+        { "word": "ぽいんと", "syllables": "po i n to", "translation": "очко; суть" }
+      ]
+    }
+  ],
+  "katakana": [
+    {
+      "char": "ア", "romaji": "a", "type": "base",
+      "words": [
+        { "word": "アイス", "syllables": "a i su", "translation": "мороженое" },
+        { "word": "アイデア", "syllables": "a i de a", "translation": "идея" },
+        { "word": "アジア", "syllables": "a ji a", "translation": "Азия" },
+        { "word": "アニメ", "syllables": "a ni me", "translation": "аниме" },
+        { "word": "アルバイト", "syllables": "a ru ba i to", "translation": "подработка" },
+        { "word": "アパート", "syllables": "a pa a to", "translation": "квартира (небольшая)" },
+        { "word": "アメリカ", "syllables": "a me ri ka", "translation": "Америка, США" },
+        { "word": "アルコール", "syllables": "a ru ko o ru", "translation": "алкоголь" },
+        { "word": "アクセサリー", "syllables": "a ku se sa ri i", "translation": "аксессуары" },
+        { "word": "アナウンス", "syllables": "a na u n su", "translation": "объявление (по громкой связи)" }
+      ]
+    },
+    {
+      "char": "イ", "romaji": "i", "type": "base",
+      "words": [
+        { "word": "イカ", "syllables": "i ka", "translation": "кальмар" },
+        { "word": "イタリア", "syllables": "i ta ri a", "translation": "Италия" },
+        { "word": "イメージ", "syllables": "i me e ji", "translation": "образ, имидж" },
+        { "word": "イス", "syllables": "i su", "translation": "стул" },
+        { "word": "イヤホン", "syllables": "i ya ho n", "translation": "наушники" },
+        { "word": "インク", "syllables": "i n ku", "translation": "чернила" },
+        { "word": "インターネット", "syllables": "i n ta a ne tto", "translation": "интернет" },
+        { "word": "インフルエンザ", "syllables": "i n fu ru e n za", "translation": "грипп" },
+        { "word": "イベント", "syllables": "i be n to", "translation": "мероприятие" },
+        { "word": "イレブン", "syllables": "i re bu n", "translation": "одиннадцать; команда (из 11)" }
+      ]
+    },
+    {
+      "char": "ウ", "romaji": "u", "type": "base",
+      "words": [
+        { "word": "ウール", "syllables": "u u ru", "translation": "шерсть" },
+        { "word": "ウイスキー", "syllables": "u i su ki i", "translation": "виски" },
+        { "word": "ウイルス", "syllables": "u i ru su", "translation": "вирус" },
+        { "word": "ウエイト", "syllables": "u e i to", "translation": "вес" },
+        { "word": "ウォッチ", "syllables": "u o tchi", "translation": "часы (наручные)" },
+        { "word": "ウエーター", "syllables": "u e e ta a", "translation": "официант" },
+        { "word": "ウクレレ", "syllables": "u ku re re", "translation": "укулеле" },
+        { "word": "ウニ", "syllables": "u ni", "translation": "морской ёж" },
+        { "word": "ウラン", "syllables": "u ra n", "translation": "уран" },
+        { "word": "ウォーター", "syllables": "u o o ta a", "translation": "вода" }
+      ]
+    },
+    {
+      "char": "エ", "romaji": "e", "type": "base",
+      "words": [
+        { "word": "エアコン", "syllables": "e a ko n", "translation": "кондиционер" },
+        { "word": "エレベーター", "syllables": "e re be e ta a", "translation": "лифт" },
+        { "word": "エンジン", "syllables": "e n ji n", "translation": "двигатель" },
+        { "word": "エスカレーター", "syllables": "e su ka re e ta a", "translation": "эскалатор" },
+        { "word": "エネルギー", "syllables": "e ne ru gi i", "translation": "энергия" },
+        { "word": "エレクトーン", "syllables": "e re ku to o n", "translation": "электронный орган" },
+        { "word": "エチケット", "syllables": "e chi ke tto", "translation": "этикет" },
+        { "word": "エプロン", "syllables": "e pu ro n", "translation": "фартук" },
+        { "word": "エンジニア", "syllables": "e n ji ni a", "translation": "инженер" },
+        { "word": "エキス", "syllables": "e ki su", "translation": "экстракт" }
+      ]
+    },
+    {
+      "char": "オ", "romaji": "o", "type": "base",
+      "words": [
+        { "word": "オレンジ", "syllables": "o re n ji", "translation": "апельсин" },
+        { "word": "オフィス", "syllables": "o fi su", "translation": "офис" },
+        { "word": "オーケストラ", "syllables": "o o ke su to ra", "translation": "оркестр" },
+        { "word": "オプション", "syllables": "o pu sho n", "translation": "опция" },
+        { "word": "オムレツ", "syllables": "o mu re tsu", "translation": "омлет" },
+        { "word": "オーバー", "syllables": "o o ba a", "translation": "пальто; сверх, через" },
+        { "word": "オートバイ", "syllables": "o o to ba i", "translation": "мотоцикл" },
+        { "word": "オイル", "syllables": "o i ru", "translation": "масло (машинное, оливковое)" },
+        { "word": "オレンジジュース", "syllables": "o re n ji ju u su", "translation": "апельсиновый сок" },
+        { "word": "オペラ", "syllables": "o pe ra", "translation": "опера" }
+      ]
+    },
+    {
+      "char": "カ", "romaji": "ka", "type": "base",
+      "words": [
+        { "word": "カメラ", "syllables": "ka me ra", "translation": "фотоаппарат" },
+        { "word": "カード", "syllables": "ka a do", "translation": "карта (банковская, игральная)" },
+        { "word": "カレー", "syllables": "ka re e", "translation": "карри" },
+        { "word": "カラオケ", "syllables": "ka ra o ke", "translation": "караоке" },
+        { "word": "カレンダー", "syllables": "ka re n da a", "translation": "календарь" },
+        { "word": "カバン", "syllables": "ka ba n", "translation": "сумка" },
+        { "word": "カップ", "syllables": "ka ppu", "translation": "чашка; кубок" },
+        { "word": "カット", "syllables": "ka tto", "translation": "стрижка; вырезание" },
+        { "word": "カテゴリー", "syllables": "ka te go ri i", "translation": "категория" },
+        { "word": "カロリー", "syllables": "ka ro ri i", "translation": "калория" }
+      ]
+    },
+    {
+      "char": "キ", "romaji": "ki", "type": "base",
+      "words": [
+        { "word": "キロ", "syllables": "ki ro", "translation": "килограмм; километр" },
+        { "word": "キス", "syllables": "ki su", "translation": "поцелуй" },
+        { "word": "キッチン", "syllables": "ki tchi n", "translation": "кухня" },
+        { "word": "キャンプ", "syllables": "kya n pu", "translation": "кемпинг, поход" },
+        { "word": "キーボード", "syllables": "ki i bo o do", "translation": "клавиатура" },
+        { "word": "ギター", "syllables": "gi ta a", "translation": "гитара" },
+        { "word": "キロメートル", "syllables": "ki ro me e to ru", "translation": "километр" },
+        { "word": "キャベツ", "syllables": "kya be tsu", "translation": "капуста" },
+        { "word": "キャンセル", "syllables": "kya n se ru", "translation": "отмена" },
+        { "word": "キーホルダー", "syllables": "ki i ho ru da a", "translation": "брелок для ключей" }
+      ]
+    },
+    {
+      "char": "ク", "romaji": "ku", "type": "base",
+      "words": [
+        { "word": "クラス", "syllables": "ku ra su", "translation": "класс" },
+        { "word": "クリスマス", "syllables": "ku ri su ma su", "translation": "Рождество" },
+        { "word": "クローン", "syllables": "ku ro o n", "translation": "клон" },
+        { "word": "クレープ", "syllables": "ku re e pu", "translation": "креп (блин)" },
+        { "word": "クリーム", "syllables": "ku ri i mu", "translation": "крем" },
+        { "word": "クラブ", "syllables": "ku ra bu", "translation": "клуб" },
+        { "word": "クリック", "syllables": "ku ri kku", "translation": "клик (компьютер)" },
+        { "word": "クイズ", "syllables": "ku i zu", "translation": "викторина" },
+        { "word": "クリーニング", "syllables": "ku ri i ni n gu", "translation": "химчистка" },
+        { "word": "クローゼット", "syllables": "ku ro o ze tto", "translation": "шкаф (для одежды)" }
+      ]
+    },
+    {
+      "char": "ケ", "romaji": "ke", "type": "base",
+      "words": [
+        { "word": "ケーキ", "syllables": "ke e ki", "translation": "торт" },
+        { "word": "ケース", "syllables": "ke e su", "translation": "чехол, футляр; случай" },
+        { "word": "ケチャップ", "syllables": "ke cha ppu", "translation": "кетчуп" },
+        { "word": "ケーブル", "syllables": "ke e bu ru", "translation": "кабель" },
+        { "word": "ケア", "syllables": "ke a", "translation": "уход, забота" },
+        { "word": "ケーキ屋", "syllables": "ke e ki ya", "translation": "кондитерская" },
+        { "word": "ケント紙", "syllables": "ke n to shi", "translation": "чертёжная бумага" },
+        { "word": "ケータイ", "syllables": "ke e ta i", "translation": "мобильный телефон (сокр.)" },
+        { "word": "ケロイド", "syllables": "ke ro i do", "translation": "келоид (рубец)" },
+        { "word": "ケルン", "syllables": "ke ru n", "translation": "Кёльн (город); одеколон" }
+      ]
+    },
+    {
+      "char": "コ", "romaji": "ko", "type": "base",
+      "words": [
+        { "word": "コーヒー", "syllables": "ko o hi i", "translation": "кофе" },
+        { "word": "コップ", "syllables": "ko ppu", "translation": "стакан" },
+        { "word": "コート", "syllables": "ko o to", "translation": "пальто; корт" },
+        { "word": "コンピューター", "syllables": "ko n pyu u ta a", "translation": "компьютер" },
+        { "word": "コンサート", "syllables": "ko n sa a to", "translation": "концерт" },
+        { "word": "コース", "syllables": "ko o su", "translation": "курс; маршрут; блюдо" },
+        { "word": "コピー", "syllables": "ko pi i", "translation": "копия, копирование" },
+        { "word": "コントロール", "syllables": "ko n to ro o ru", "translation": "контроль" },
+        { "word": "コンビニ", "syllables": "ko n bi ni", "translation": "мини-маркет (сокр.)" },
+        { "word": "コーラ", "syllables": "ko o ra", "translation": "кола" }
+      ]
+    },
+    {
+      "char": "サ", "romaji": "sa", "type": "base",
+      "words": [
+        { "word": "サラダ", "syllables": "sa ra da", "translation": "салат" },
+        { "word": "サービス", "syllables": "sa a bi su", "translation": "сервис, обслуживание" },
+        { "word": "サッカー", "syllables": "sa kka a", "translation": "футбол" },
+        { "word": "サンドイッチ", "syllables": "sa n do i tchi", "translation": "сэндвич" },
+        { "word": "サイズ", "syllables": "sa i zu", "translation": "размер" },
+        { "word": "サイン", "syllables": "sa i n", "translation": "подпись; знак" },
+        { "word": "サラリーマン", "syllables": "sa ra ri i ma n", "translation": "офисный работник" },
+        { "word": "サンキュー", "syllables": "sa n kyu u", "translation": "спасибо (разг.)" },
+        { "word": "サウナ", "syllables": "sa u na", "translation": "сауна" },
+        { "word": "サングラス", "syllables": "sa n gu ra su", "translation": "солнцезащитные очки" }
+      ]
+    },
+    {
+      "char": "シ", "romaji": "shi", "type": "base",
+      "words": [
+        { "word": "シャツ", "syllables": "sha tsu", "translation": "рубашка" },
+        { "word": "シネマ", "syllables": "shi ne ma", "translation": "кинотеатр" },
+        { "word": "シャワー", "syllables": "sha wa a", "translation": "душ" },
+        { "word": "シーズン", "syllables": "shi i zu n", "translation": "сезон" },
+        { "word": "システム", "syllables": "shi su te mu", "translation": "система" },
+        { "word": "シート", "syllables": "shi i to", "translation": "сиденье; лист" },
+        { "word": "シリアル", "syllables": "shi ri a ru", "translation": "хлопья (завтрак)" },
+        { "word": "シンボル", "syllables": "shi n bo ru", "translation": "символ" },
+        { "word": "シナリオ", "syllables": "shi na ri o", "translation": "сценарий" },
+        { "word": "シルバー", "syllables": "shi ru ba a", "translation": "серебро; серебряный" }
+      ]
+    },
+    {
+      "char": "ス", "romaji": "su", "type": "base",
+      "words": [
+        { "word": "スープ", "syllables": "su u pu", "translation": "суп" },
+        { "word": "スキー", "syllables": "su ki i", "translation": "лыжи" },
+        { "word": "スーパー", "syllables": "su u pa a", "translation": "супермаркет" },
+        { "word": "スピーチ", "syllables": "su pi i chi", "translation": "речь, выступление" },
+        { "word": "スケジュール", "syllables": "su ke ju u ru", "translation": "расписание" },
+        { "word": "スプーン", "syllables": "su pu u n", "translation": "ложка" },
+        { "word": "スマートフォン", "syllables": "su ma a to fo n", "translation": "смартфон" },
+        { "word": "スイッチ", "syllables": "su i tchi", "translation": "выключатель" },
+        { "word": "スタイル", "syllables": "su ta i ru", "translation": "стиль" },
+        { "word": "ストレス", "syllables": "su to re su", "translation": "стресс" }
+      ]
+    },
+    {
+      "char": "セ", "romaji": "se", "type": "base",
+      "words": [
+        { "word": "セーター", "syllables": "se e ta a", "translation": "свитер" },
+        { "word": "セット", "syllables": "se tto", "translation": "набор, комплект" },
+        { "word": "センター", "syllables": "se n ta a", "translation": "центр" },
+        { "word": "セール", "syllables": "se e ru", "translation": "распродажа" },
+        { "word": "セロリ", "syllables": "se ro ri", "translation": "сельдерей" },
+        { "word": "センチ", "syllables": "se n chi", "translation": "сантиметр" },
+        { "word": "セクシー", "syllables": "se ku shi i", "translation": "сексуальный" },
+        { "word": "セレモニー", "syllables": "se re mo ni i", "translation": "церемония" },
+        { "word": "セメント", "syllables": "se me n to", "translation": "цемент" },
+        { "word": "セキュリティ", "syllables": "se kyu ri ti", "translation": "безопасность" }
+      ]
+    },
+    {
+      "char": "ソ", "romaji": "so", "type": "base",
+      "words": [
+        { "word": "ソファ", "syllables": "so fa", "translation": "диван" },
+        { "word": "ソース", "syllables": "so o su", "translation": "соус" },
+        { "word": "ソックス", "syllables": "so kku su", "translation": "носки" },
+        { "word": "ソロ", "syllables": "so ro", "translation": "соло" },
+        { "word": "ソフト", "syllables": "so fu to", "translation": "мягкий; программное обеспечение" },
+        { "word": "ソーセージ", "syllables": "so o se e ji", "translation": "сосиска, колбаса" },
+        { "word": "ソフトクリーム", "syllables": "so fu to ku ri i mu", "translation": "мягкое мороженое" },
+        { "word": "ソ連", "syllables": "so re n", "translation": "СССР (ист.)" },
+        { "word": "ソナタ", "syllables": "so na ta", "translation": "соната" },
+        { "word": "ソーラー", "syllables": "so o ra a", "translation": "солнечный (о энергии)" }
+      ]
+    },
+    {
+      "char": "タ", "romaji": "ta", "type": "base",
+      "words": [
+        { "word": "タクシー", "syllables": "ta ku shi i", "translation": "такси" },
+        { "word": "タオル", "syllables": "ta o ru", "translation": "полотенце" },
+        { "word": "タワー", "syllables": "ta wa a", "translation": "башня" },
+        { "word": "タイミング", "syllables": "ta i mi n gu", "translation": "тайминг, момент" },
+        { "word": "タイトル", "syllables": "ta i to ru", "translation": "заголовок, название" },
+        { "word": "タップ", "syllables": "ta ppu", "translation": "кран (водопроводный); танец" },
+        { "word": "タレント", "syllables": "ta re n to", "translation": "телеведущий, знаменитость" },
+        { "word": "ターミナル", "syllables": "ta a mi na ru", "translation": "терминал" },
+        { "word": "タブレット", "syllables": "ta bu re tto", "translation": "планшет" },
+        { "word": "タコス", "syllables": "ta ko su", "translation": "тако (мексиканское блюдо)" }
+      ]
+    },
+    {
+      "char": "チ", "romaji": "chi", "type": "base",
+      "words": [
+        { "word": "チーズ", "syllables": "chi i zu", "translation": "сыр" },
+        { "word": "チケット", "syllables": "chi ke tto", "translation": "билет" },
+        { "word": "チーム", "syllables": "chi i mu", "translation": "команда" },
+        { "word": "チョコレート", "syllables": "cho ko re e to", "translation": "шоколад" },
+        { "word": "チキン", "syllables": "chi ki n", "translation": "курица" },
+        { "word": "チャンス", "syllables": "cha n su", "translation": "шанс" },
+        { "word": "チップ", "syllables": "chi ppu", "translation": "микросхема; чаевые" },
+        { "word": "チョーク", "syllables": "cho o ku", "translation": "мел" },
+        { "word": "チューナー", "syllables": "chu u na a", "translation": "тюнер, настройщик" },
+        { "word": "チューリップ", "syllables": "chu u ri ppu", "translation": "тюльпан" }
+      ]
+    },
+    {
+      "char": "ツ", "romaji": "tsu", "type": "base",
+      "words": [
+        { "word": "ツアー", "syllables": "tsu a a", "translation": "тур, экскурсия" },
+        { "word": "ツール", "syllables": "tsu u ru", "translation": "инструмент" },
+        { "word": "ツイスト", "syllables": "tsu i su to", "translation": "твист (танец)" },
+        { "word": "ツイン", "syllables": "tsu i n", "translation": "двойной (номер)" },
+        { "word": "ツリー", "syllables": "tsu ri i", "translation": "дерево (обычно как украшение)" },
+        { "word": "ツナ", "syllables": "tsu na", "translation": "тунец (консервированный)" },
+        { "word": "ツイッター", "syllables": "tsu i tta a", "translation": "Твиттер" },
+        { "word": "ツルツル", "syllables": "tsu ru tsu ru", "translation": "гладкий, скользкий" },
+        { "word": "ツンツン", "syllables": "tsu n tsu n", "translation": "колючий; надменный" },
+        { "word": "ツボ", "syllables": "tsu bo", "translation": "точка (акупунктуры); «в точку»" }
+      ]
+    },
+    {
+      "char": "テ", "romaji": "te", "type": "base",
+      "words": [
+        { "word": "テレビ", "syllables": "te re bi", "translation": "телевизор" },
+        { "word": "テスト", "syllables": "te su to", "translation": "тест, экзамен" },
+        { "word": "テーブル", "syllables": "te e bu ru", "translation": "стол" },
+        { "word": "テニス", "syllables": "te ni su", "translation": "теннис" },
+        { "word": "テキスト", "syllables": "te ki su to", "translation": "текст, учебник" },
+        { "word": "テーマ", "syllables": "te e ma", "translation": "тема" },
+        { "word": "デザイン", "syllables": "de za i n", "translation": "дизайн" },
+        { "word": "テント", "syllables": "te n to", "translation": "палатка" },
+        { "word": "テンポ", "syllables": "te n po", "translation": "темп" },
+        { "word": "テレフォン", "syllables": "te re fo n", "translation": "телефон" }
+      ]
+    },
+    {
+      "char": "ト", "romaji": "to", "type": "base",
+      "words": [
+        { "word": "トマト", "syllables": "to ma to", "translation": "помидор" },
+        { "word": "トイレ", "syllables": "to i re", "translation": "туалет" },
+        { "word": "トンネル", "syllables": "to n ne ru", "translation": "тоннель" },
+        { "word": "トラック", "syllables": "to ra kku", "translation": "грузовик" },
+        { "word": "トースト", "syllables": "to o su to", "translation": "тост" },
+        { "word": "トップ", "syllables": "to ppu", "translation": "топ, вершина" },
+        { "word": "トランプ", "syllables": "to ra n pu", "translation": "игральные карты" },
+        { "word": "トイレットペーパー", "syllables": "to i re tto pe e pa a", "translation": "туалетная бумага" },
+        { "word": "トーナメント", "syllables": "to o na me n to", "translation": "турнир" },
+        { "word": "トロフィー", "syllables": "to ro fi i", "translation": "трофей" }
+      ]
+    },
+    {
+      "char": "ナ", "romaji": "na", "type": "base",
+      "words": [
+        { "word": "ナイフ", "syllables": "na i fu", "translation": "нож" },
+        { "word": "ナンバー", "syllables": "na n ba a", "translation": "номер" },
+        { "word": "ナチュラル", "syllables": "na chu ra ru", "translation": "естественный" },
+        { "word": "ナイト", "syllables": "na i to", "translation": "ночь" },
+        { "word": "ナビ", "syllables": "na bi", "translation": "навигатор" },
+        { "word": "ナッツ", "syllables": "na ttsu", "translation": "орехи" },
+        { "word": "ナレーション", "syllables": "na re e sho n", "translation": "закадровый голос" },
+        { "word": "ナプキン", "syllables": "na pu ki n", "translation": "салфетка" },
+        { "word": "ナイロン", "syllables": "na i ro n", "translation": "нейлон" },
+        { "word": "ナンセンス", "syllables": "na n se n su", "translation": "бессмыслица" }
+      ]
+    },
+    {
+      "char": "ニ", "romaji": "ni", "type": "base",
+      "words": [
+        { "word": "ニュース", "syllables": "nyu u su", "translation": "новости" },
+        { "word": "ニックネーム", "syllables": "ni kku ne e mu", "translation": "никнейм" },
+        { "word": "ニンジン", "syllables": "ni n ji n", "translation": "морковь" },
+        { "word": "ニュアンス", "syllables": "nyu a n su", "translation": "нюанс" },
+        { "word": "ニット", "syllables": "ni tto", "translation": "вязаный (трикотаж)" },
+        { "word": "ニッケル", "syllables": "ni kke ru", "translation": "никель" },
+        { "word": "ニューヨーク", "syllables": "nyu u yo o ku", "translation": "Нью-Йорк" },
+        { "word": "ニーズ", "syllables": "ni i zu", "translation": "потребности, нужды" },
+        { "word": "ニス", "syllables": "ni su", "translation": "лак" },
+        { "word": "ニコチン", "syllables": "ni ko chi n", "translation": "никотин" }
+      ]
+    },
+    {
+      "char": "ヌ", "romaji": "nu", "type": "base",
+      "words": [
+        { "word": "ヌードル", "syllables": "nu u do ru", "translation": "лапша" },
+        { "word": "ヌード", "syllables": "nu u do", "translation": "ню (обнажённая натура)" },
+        { "word": "ヌガー", "syllables": "nu ga a", "translation": "нуга" },
+        { "word": "ヌック", "syllables": "nu kku", "translation": "уютный уголок" },
+        { "word": "ヌメロ", "syllables": "nu me ro", "translation": "номер (устар.)" },
+        { "word": "ヌーヴォー", "syllables": "nu u vo o", "translation": "нуво (новое вино)" },
+        { "word": "ヌイグルミ", "syllables": "nu i gu ru mi", "translation": "мягкая игрушка" },
+        { "word": "ヌルヌル", "syllables": "nu ru nu ru", "translation": "скользкий" },
+        { "word": "ヌクヌク", "syllables": "nu ku nu ku", "translation": "тепло, уютно" },
+        { "word": "ヌル", "syllables": "nu ru", "translation": "нулевой, пустой (комп. сленг)" }
+      ]
+    },
+    {
+      "char": "ネ", "romaji": "ne", "type": "base",
+      "words": [
+        { "word": "ネクタイ", "syllables": "ne ku ta i", "translation": "галстук" },
+        { "word": "ネーム", "syllables": "ne e mu", "translation": "имя, название" },
+        { "word": "ネックレス", "syllables": "ne kku re su", "translation": "ожерелье" },
+        { "word": "ネガ", "syllables": "ne ga", "translation": "негатив (фото)" },
+        { "word": "ネオン", "syllables": "ne o n", "translation": "неон" },
+        { "word": "ネット", "syllables": "ne tto", "translation": "сеть, интернет" },
+        { "word": "ネジ", "syllables": "ne ji", "translation": "винт, шуруп" },
+        { "word": "ネイティブ", "syllables": "ne i ti bu", "translation": "носитель языка" },
+        { "word": "ネック", "syllables": "ne kku", "translation": "шея; узкое место (проблема)" },
+        { "word": "ネバネバ", "syllables": "ne ba ne ba", "translation": "липкий, тягучий" }
+      ]
+    },
+    {
+      "char": "ノ", "romaji": "no", "type": "base",
+      "words": [
+        { "word": "ノート", "syllables": "no o to", "translation": "тетрадь" },
+        { "word": "ノック", "syllables": "no kku", "translation": "стук (в дверь)" },
+        { "word": "ノルマ", "syllables": "no ru ma", "translation": "норма (план)" },
+        { "word": "ノイズ", "syllables": "no i zu", "translation": "шум, помехи" },
+        { "word": "ノスタルジー", "syllables": "no su ta ru ji i", "translation": "ностальгия" },
+        { "word": "ノウハウ", "syllables": "no u ha u", "translation": "ноу-хау, опыт" },
+        { "word": "ノンフィクション", "syllables": "no n fi ku sho n", "translation": "нон-фикшн" },
+        { "word": "ノーマル", "syllables": "no o ma ru", "translation": "нормальный, обычный" },
+        { "word": "ノミネート", "syllables": "no mi ne e to", "translation": "номинация" },
+        { "word": "ノー", "syllables": "no o", "translation": "нет, отказ" }
+      ]
+    },
+    {
+      "char": "ハ", "romaji": "ha", "type": "base",
+      "words": [
+        { "word": "ハンバーガー", "syllables": "ha n ba a ga a", "translation": "гамбургер" },
+        { "word": "ハート", "syllables": "ha a to", "translation": "сердце (символ)" },
+        { "word": "ハンドル", "syllables": "ha n do ru", "translation": "руль" },
+        { "word": "ハイキング", "syllables": "ha i ki n gu", "translation": "поход, треккинг" },
+        { "word": "ハーモニー", "syllables": "ha a mo ni i", "translation": "гармония" },
+        { "word": "ハンカチ", "syllables": "ha n ka chi", "translation": "носовой платок" },
+        { "word": "パソコン", "syllables": "pa so ko n", "translation": "компьютер" },
+        { "word": "ハイテク", "syllables": "ha i te ku", "translation": "хайтек, высокие технологии" },
+        { "word": "ハプニング", "syllables": "ha pu ni n gu", "translation": "происшествие, случай" },
+        { "word": "ハロウィン", "syllables": "ha ro wi n", "translation": "Хэллоуин" }
+      ]
+    },
+    {
+      "char": "ヒ", "romaji": "hi", "type": "base",
+      "words": [
+        { "word": "ヒーター", "syllables": "hi i ta a", "translation": "обогреватель" },
+        { "word": "ヒント", "syllables": "hi n to", "translation": "подсказка" },
+        { "word": "ヒーロー", "syllables": "hi i ro o", "translation": "герой" },
+        { "word": "ヒップ", "syllables": "hi ppu", "translation": "бёдра" },
+        { "word": "ヒスイ", "syllables": "hi su i", "translation": "нефрит (камень)" },
+        { "word": "ピザ", "syllables": "pi za", "translation": "пицца" },
+        { "word": "ヒット", "syllables": "hi tto", "translation": "хит, удар" },
+        { "word": "ヒマワリ", "syllables": "hi ma wa ri", "translation": "подсолнух" },
+        { "word": "ヒヨコ", "syllables": "hi yo ko", "translation": "цыплёнок" },
+        { "word": "ヒューマン", "syllables": "hyu u ma n", "translation": "человечный" }
+      ]
+    },
+    {
+      "char": "フ", "romaji": "fu", "type": "base",
+      "words": [
+        { "word": "フォーク", "syllables": "fo o ku", "translation": "вилка" },
+        { "word": "フランス", "syllables": "fu ra n su", "translation": "Франция" },
+        { "word": "フルーツ", "syllables": "fu ru u tsu", "translation": "фрукты" },
+        { "word": "フィルム", "syllables": "fi ru mu", "translation": "плёнка" },
+        { "word": "ファン", "syllables": "fa n", "translation": "фанат, веер" },
+        { "word": "フライドポテト", "syllables": "fu ra i do po te to", "translation": "картофель фри" },
+        { "word": "フリー", "syllables": "fu ri i", "translation": "свободный, бесплатный" },
+        { "word": "フライパン", "syllables": "fu ra i pa n", "translation": "сковорода" },
+        { "word": "プレゼント", "syllables": "pu re ze n to", "translation": "подарок" },
+        { "word": "フロント", "syllables": "fu ro n to", "translation": "ресепшн, стойка администратора" }
+      ]
+    },
+    {
+      "char": "ヘ", "romaji": "he", "type": "base",
+      "words": [
+        { "word": "ヘリコプター", "syllables": "he ri ko pu ta a", "translation": "вертолёт" },
+        { "word": "ヘルメット", "syllables": "he ru me tto", "translation": "шлем" },
+        { "word": "ヘッドホン", "syllables": "he ddo ho n", "translation": "наушники" },
+        { "word": "ヘア", "syllables": "he a", "translation": "волосы (причёска)" },
+        { "word": "ヘビー", "syllables": "he bi i", "translation": "тяжёлый" },
+        { "word": "ヘルシー", "syllables": "he ru shi i", "translation": "здоровый, полезный" },
+        { "word": "ヘリウム", "syllables": "he ri u mu", "translation": "гелий" },
+        { "word": "ヘルプ", "syllables": "he ru pu", "translation": "помощь (в ПО)" },
+        { "word": "ヘアピン", "syllables": "he a pi n", "translation": "заколка для волос" },
+        { "word": "ヘッドライト", "syllables": "he ddo ra i to", "translation": "фара; налобный фонарь" }
+      ]
+    },
+    {
+      "char": "ホ", "romaji": "ho", "type": "base",
+      "words": [
+        { "word": "ホテル", "syllables": "ho te ru", "translation": "отель" },
+        { "word": "ホーム", "syllables": "ho o mu", "translation": "платформа (на вокзале); дом" },
+        { "word": "ホラー", "syllables": "ho ra a", "translation": "ужас (жанр)" },
+        { "word": "ホット", "syllables": "ho tto", "translation": "горячий" },
+        { "word": "ホビー", "syllables": "ho bi i", "translation": "хобби" },
+        { "word": "ホース", "syllables": "ho o su", "translation": "шланг" },
+        { "word": "ポスト", "syllables": "po su to", "translation": "почтовый ящик" },
+        { "word": "ホームページ", "syllables": "ho o mu pe e ji", "translation": "веб-сайт" },
+        { "word": "ホイップクリーム", "syllables": "ho i ppu ku ri i mu", "translation": "взбитые сливки" },
+        { "word": "ホルモン", "syllables": "ho ru mo n", "translation": "гормон" }
+      ]
+    },
+    {
+      "char": "マ", "romaji": "ma", "type": "base",
+      "words": [
+        { "word": "マンガ", "syllables": "ma n ga", "translation": "манга, комиксы" },
+        { "word": "マスク", "syllables": "ma su ku", "translation": "маска" },
+        { "word": "マッチ", "syllables": "ma tchi", "translation": "спичка; совпадение" },
+        { "word": "マナー", "syllables": "ma na a", "translation": "манеры, этикет" },
+        { "word": "マネー", "syllables": "ma ne e", "translation": "деньги" },
+        { "word": "マフラー", "syllables": "ma fu ra a", "translation": "шарф; глушитель" },
+        { "word": "マヨネーズ", "syllables": "ma yo ne e zu", "translation": "майонез" },
+        { "word": "マラソン", "syllables": "ma ra so n", "translation": "марафон" },
+        { "word": "マイク", "syllables": "ma i ku", "translation": "микрофон" },
+        { "word": "マッサージ", "syllables": "ma ssa a ji", "translation": "массаж" }
+      ]
+    },
+    {
+      "char": "ミ", "romaji": "mi", "type": "base",
+      "words": [
+        { "word": "ミルク", "syllables": "mi ru ku", "translation": "молоко" },
+        { "word": "ミス", "syllables": "mi su", "translation": "ошибка; мисс" },
+        { "word": "ミュージック", "syllables": "myu u ji kku", "translation": "музыка" },
+        { "word": "ミニ", "syllables": "mi ni", "translation": "мини" },
+        { "word": "ミラー", "syllables": "mi ra a", "translation": "зеркало" },
+        { "word": "ミシン", "syllables": "mi shi n", "translation": "швейная машинка" },
+        { "word": "ミント", "syllables": "mi n to", "translation": "мята" },
+        { "word": "ミュージアム", "syllables": "myu u ji a mu", "translation": "музей" },
+        { "word": "ミックス", "syllables": "mi kku su", "translation": "смесь, микс" },
+        { "word": "ミリ", "syllables": "mi ri", "translation": "миллиметр" }
+      ]
+    },
+    {
+      "char": "ム", "romaji": "mu", "type": "base",
+      "words": [
+        { "word": "ムード", "syllables": "mu u do", "translation": "настроение, атмосфера" },
+        { "word": "ムービー", "syllables": "mu u bi i", "translation": "фильм, видео" },
+        { "word": "ムシ", "syllables": "mu shi", "translation": "насекомое (катакана)" },
+        { "word": "ムスリム", "syllables": "mu su ri mu", "translation": "мусульманин" },
+        { "word": "ムーン", "syllables": "mu u n", "translation": "луна" },
+        { "word": "ムダ", "syllables": "mu da", "translation": "бесполезный, напрасный" },
+        { "word": "ムラ", "syllables": "mu ra", "translation": "неравномерность, пятна" },
+        { "word": "ムキムキ", "syllables": "mu ki mu ki", "translation": "мускулистый" },
+        { "word": "ムンムン", "syllables": "mu n mu n", "translation": "сильный запах/атмосфера" },
+        { "word": "ムック", "syllables": "mu kku", "translation": "мук (журнал-книга)" }
+      ]
+    },
+    {
+      "char": "メ", "romaji": "me", "type": "base",
+      "words": [
+        { "word": "メニュー", "syllables": "me nyu u", "translation": "меню" },
+        { "word": "メール", "syllables": "me e ru", "translation": "почта, имейл" },
+        { "word": "メガネ", "syllables": "me ga ne", "translation": "очки (катакана)" },
+        { "word": "メロディー", "syllables": "me ro di i", "translation": "мелодия" },
+        { "word": "メダル", "syllables": "me da ru", "translation": "медаль" },
+        { "word": "メジャー", "syllables": "me ja a", "translation": "мажор; крупный, главный" },
+        { "word": "メッセージ", "syllables": "me sse e ji", "translation": "сообщение" },
+        { "word": "メモ", "syllables": "me mo", "translation": "заметка, мемо" },
+        { "word": "メンテナンス", "syllables": "me n te na n su", "translation": "обслуживание, техподдержка" },
+        { "word": "メロン", "syllables": "me ro n", "translation": "дыня" }
+      ]
+    },
+    {
+      "char": "モ", "romaji": "mo", "type": "base",
+      "words": [
+        { "word": "モデル", "syllables": "mo de ru", "translation": "модель" },
+        { "word": "モーター", "syllables": "mo o ta a", "translation": "мотор" },
+        { "word": "モニター", "syllables": "mo ni ta a", "translation": "монитор; респондент" },
+        { "word": "モダン", "syllables": "mo da n", "translation": "современный" },
+        { "word": "モバイル", "syllables": "mo ba i ru", "translation": "мобильный" },
+        { "word": "モール", "syllables": "mo o ru", "translation": "торговый центр" },
+        { "word": "モノレール", "syllables": "mo no re e ru", "translation": "монорельс" },
+        { "word": "モンスター", "syllables": "mo n su ta a", "translation": "монстр" },
+        { "word": "モーニング", "syllables": "mo o ni n gu", "translation": "утро; утренний костюм" },
+        { "word": "モラル", "syllables": "mo ra ru", "translation": "мораль" }
+      ]
+    },
+    {
+      "char": "ヤ", "romaji": "ya", "type": "base",
+      "words": [
+        { "word": "ヤクルト", "syllables": "ya ku ru to", "translation": "Якулт (напиток)" },
+        { "word": "ヤード", "syllables": "ya a do", "translation": "ярд" },
+        { "word": "ヤング", "syllables": "ya n gu", "translation": "молодой" },
+        { "word": "ヤシ", "syllables": "ya shi", "translation": "пальма" },
+        { "word": "ヤギ", "syllables": "ya gi", "translation": "коза" },
+        { "word": "タイヤ", "syllables": "ta i ya", "translation": "шина (ヤ в конце)" },
+        { "word": "ダイヤ", "syllables": "da i ya", "translation": "алмаз, бриллиант (ヤ в конце)" },
+        { "word": "セーフティ", "syllables": "se e fu ti", "translation": "безопасность (ヤ в середине)" },
+        { "word": "ヤンキー", "syllables": "ya n ki i", "translation": "янки; неформал (в Японии)" },
+        { "word": "ヤクザ", "syllables": "ya ku za", "translation": "якудза (мафия)" }
+      ]
+    },
+    {
+      "char": "ユ", "romaji": "yu", "type": "base",
+      "words": [
+        { "word": "ユーモア", "syllables": "yu u mo a", "translation": "юмор" },
+        { "word": "ユニフォーム", "syllables": "yu ni fo o mu", "translation": "униформа, форма" },
+        { "word": "ユーザー", "syllables": "yu u za a", "translation": "пользователь" },
+        { "word": "ユニーク", "syllables": "yu ni i ku", "translation": "уникальный" },
+        { "word": "ユートピア", "syllables": "yu u to pi a", "translation": "утопия" },
+        { "word": "ユニット", "syllables": "yu ni tto", "translation": "блок, модуль; юнит" },
+        { "word": "ユーロ", "syllables": "yu u ro", "translation": "евро" },
+        { "word": "ユリ", "syllables": "yu ri", "translation": "лилия" },
+        { "word": "ユーラシア", "syllables": "yu u ra shi a", "translation": "Евразия" },
+        { "word": "ユニセフ", "syllables": "yu ni se fu", "translation": "ЮНИСЕФ" }
+      ]
+    },
+    {
+      "char": "ヨ", "romaji": "yo", "type": "base",
+      "words": [
+        { "word": "ヨーグルト", "syllables": "yo o gu ru to", "translation": "йогурт" },
+        { "word": "ヨット", "syllables": "yo tto", "translation": "яхта" },
+        { "word": "ヨガ", "syllables": "yo ga", "translation": "йога" },
+        { "word": "ヨーロッパ", "syllables": "yo o ro ppa", "translation": "Европа" },
+        { "word": "ヨード", "syllables": "yo o do", "translation": "йод" },
+        { "word": "ヨーヨー", "syllables": "yo o yo o", "translation": "йо-йо" },
+        { "word": "ヨハン", "syllables": "yo ha n", "translation": "Йохан (имя)" },
+        { "word": "ヨーガ", "syllables": "yo o ga", "translation": "йога (вариант)" },
+        { "word": "ヨセミテ", "syllables": "yo se mi te", "translation": "Йосемити (парк)" },
+        { "word": "ヨルダン", "syllables": "yo ru da n", "translation": "Иордания" }
+      ]
+    },
+    {
+      "char": "ラ", "romaji": "ra", "type": "base",
+      "words": [
+        { "word": "ラーメン", "syllables": "ra a me n", "translation": "рамен" },
+        { "word": "ライト", "syllables": "ra i to", "translation": "свет; светлый" },
+        { "word": "ラジオ", "syllables": "ra ji o", "translation": "радио" },
+        { "word": "ラブ", "syllables": "ra bu", "translation": "любовь" },
+        { "word": "ランチ", "syllables": "ra n chi", "translation": "ланч, обед" },
+        { "word": "ライオン", "syllables": "ra i o n", "translation": "лев" },
+        { "word": "ラッシュ", "syllables": "ra ssu", "translation": "час пик; наплыв" },
+        { "word": "ラッパ", "syllables": "ra ppa", "translation": "труба (муз.)" },
+        { "word": "ラベル", "syllables": "ra be ru", "translation": "этикетка" },
+        { "word": "ラスト", "syllables": "ra su to", "translation": "последний; конец" }
+      ]
+    },
+    {
+      "char": "リ", "romaji": "ri", "type": "base",
+      "words": [
+        { "word": "リンゴ", "syllables": "ri n go", "translation": "яблоко" },
+        { "word": "リスト", "syllables": "ri su to", "translation": "список" },
+        { "word": "リズム", "syllables": "ri zu mu", "translation": "ритм" },
+        { "word": "リボン", "syllables": "ri bo n", "translation": "лента, бант" },
+        { "word": "リサイクル", "syllables": "ri sa i ku ru", "translation": "переработка" },
+        { "word": "リーダー", "syllables": "ri i da a", "translation": "лидер, вожак" },
+        { "word": "リモコン", "syllables": "ri mo ko n", "translation": "пульт (сокр.)" },
+        { "word": "リスク", "syllables": "ri su ku", "translation": "риск" },
+        { "word": "リラックス", "syllables": "ri ra kku su", "translation": "расслабление" },
+        { "word": "リンス", "syllables": "ri n su", "translation": "ополаскиватель (для волос)" }
+      ]
+    },
+    {
+      "char": "ル", "romaji": "ru", "type": "base",
+      "words": [
+        { "word": "ルール", "syllables": "ru u ru", "translation": "правило" },
+        { "word": "ルビー", "syllables": "ru bi i", "translation": "рубин" },
+        { "word": "ルーム", "syllables": "ru u mu", "translation": "комната" },
+        { "word": "ループ", "syllables": "ru u pu", "translation": "петля" },
+        { "word": "ルート", "syllables": "ru u to", "translation": "маршрут" },
+        { "word": "ホテル", "syllables": "ho te ru", "translation": "отель (ル в конце)" },
+        { "word": "ビール", "syllables": "bi i ru", "translation": "пиво (ル в конце)" },
+        { "word": "タオル", "syllables": "ta o ru", "translation": "полотенце (ル в конце)" },
+        { "word": "エレベーター", "syllables": "e re be e ta a", "translation": "лифт (ル в середине)" },
+        { "word": "アルバイト", "syllables": "a ru ba i to", "translation": "подработка (ル в середине)" }
+      ]
+    },
+    {
+      "char": "レ", "romaji": "re", "type": "base",
+      "words": [
+        { "word": "レストラン", "syllables": "re su to ra n", "translation": "ресторан" },
+        { "word": "レモン", "syllables": "re mo n", "translation": "лимон" },
+        { "word": "レコード", "syllables": "re ko o do", "translation": "пластинка" },
+        { "word": "レッスン", "syllables": "re ssu n", "translation": "урок" },
+        { "word": "レベル", "syllables": "re be ru", "translation": "уровень" },
+        { "word": "レジ", "syllables": "re ji", "translation": "касса" },
+        { "word": "レシート", "syllables": "re shi i to", "translation": "чек" },
+        { "word": "レンタル", "syllables": "re n ta ru", "translation": "аренда, прокат" },
+        { "word": "レバー", "syllables": "re ba a", "translation": "рычаг; печень" },
+        { "word": "レポート", "syllables": "re po o to", "translation": "отчёт, доклад" }
+      ]
+    },
+    {
+      "char": "ロ", "romaji": "ro", "type": "base",
+      "words": [
+        { "word": "ロボット", "syllables": "ro bo tto", "translation": "робот" },
+        { "word": "ロケット", "syllables": "ro ke tto", "translation": "ракета" },
+        { "word": "ローマ", "syllables": "ro o ma", "translation": "Рим" },
+        { "word": "ロッカー", "syllables": "ro kka a", "translation": "шкафчик" },
+        { "word": "ローン", "syllables": "ro o n", "translation": "кредит" },
+        { "word": "ロビー", "syllables": "ro bi i", "translation": "лобби, холл" },
+        { "word": "ロマンス", "syllables": "ro ma n su", "translation": "романтика, роман" },
+        { "word": "ロープ", "syllables": "ro o pu", "translation": "верёвка" },
+        { "word": "ロック", "syllables": "ro kku", "translation": "рок (музыка); замок" },
+        { "word": "ロシア", "syllables": "ro shi a", "translation": "Россия" }
+      ]
+    },
+    {
+      "char": "ワ", "romaji": "wa", "type": "base",
+      "words": [
+        { "word": "ワイン", "syllables": "wa i n", "translation": "вино" },
+        { "word": "ワイシャツ", "syllables": "wa i sha tsu", "translation": "рубашка" },
+        { "word": "ワゴン", "syllables": "wa go n", "translation": "фургон" },
+        { "word": "ワーク", "syllables": "wa a ku", "translation": "работа" },
+        { "word": "ワンダー", "syllables": "wa n da a", "translation": "чудо" },
+        { "word": "ワクチン", "syllables": "wa ku chi n", "translation": "вакцина" },
+        { "word": "ワイパー", "syllables": "wa i pa a", "translation": "дворник (авто)" },
+        { "word": "ワット", "syllables": "wa tto", "translation": "ватт" },
+        { "word": "ワイヤレス", "syllables": "wa i ya re su", "translation": "беспроводной" },
+        { "word": "ワールド", "syllables": "wa a ru do", "translation": "мир (англ.)" }
+      ]
+    },
+    {
+      "char": "ヲ", "romaji": "wo", "type": "base",
+      "words": [
+        { "word": "ヲ", "syllables": "wo", "translation": "частица винительного падежа (катакана)" },
+        { "word": "ヲタ", "syllables": "wo ta", "translation": "отаку (сокр.)" },
+        { "word": "ヲタク", "syllables": "wo ta ku", "translation": "отаку (катакана)" },
+        { "word": "ヲシ", "syllables": "wo shi", "translation": "устаревшее написание" },
+        { "word": "ヲコ", "syllables": "wo ko", "translation": "устаревшее написание" },
+        { "word": "ヲトコ", "syllables": "wo to ko", "translation": "устаревшее написание" },
+        { "word": "ヲンナ", "syllables": "wo n na", "translation": "устаревшее написание" },
+        { "word": "ヲバ", "syllables": "wo ba", "translation": "устаревшее написание" },
+        { "word": "ヲイ", "syllables": "wo i", "translation": "эй! (разг., устар.)" },
+        { "word": "ヲー", "syllables": "wo o", "translation": "восклицание (устар.)" }
+      ]
+    },
+    {
+      "char": "ン", "romaji": "n", "type": "base",
+      "words": [
+        { "word": "パン", "syllables": "pa n", "translation": "хлеб" },
+        { "word": "ペン", "syllables": "pe n", "translation": "ручка" },
+        { "word": "テン", "syllables": "te n", "translation": "десять" },
+        { "word": "ワン", "syllables": "wa n", "translation": "один" },
+        { "word": "オン", "syllables": "o n", "translation": "включено" },
+        { "word": "レモン", "syllables": "re mo n", "translation": "лимон" },
+        { "word": "マンガ", "syllables": "ma n ga", "translation": "манга" },
+        { "word": "ビタミン", "syllables": "bi ta mi n", "translation": "витамин" },
+        { "word": "カメラマン", "syllables": "ka me ra ma n", "translation": "фотограф" },
+        { "word": "サンドイッチ", "syllables": "sa n do i tchi", "translation": "сэндвич" }
+      ]
+    },
+    {
+      "char": "ガ", "romaji": "ga", "type": "dakuten",
+      "words": [
+        { "word": "ガス", "syllables": "ga su", "translation": "газ" },
+        { "word": "ガラス", "syllables": "ga ra su", "translation": "стекло" },
+        { "word": "ガイド", "syllables": "ga i do", "translation": "гид" },
+        { "word": "ガム", "syllables": "ga mu", "translation": "жвачка" },
+        { "word": "ガレージ", "syllables": "ga re e ji", "translation": "гараж" },
+        { "word": "ガソリン", "syllables": "ga so ri n", "translation": "бензин" },
+        { "word": "ガール", "syllables": "ga a ru", "translation": "девочка, девушка" },
+        { "word": "ガード", "syllables": "ga a do", "translation": "защита, охрана" },
+        { "word": "ガーゼ", "syllables": "ga a ze", "translation": "марля" },
+        { "word": "ガッツ", "syllables": "ga ttsu", "translation": "упорство, guts" }
+      ]
+    },
+    {
+      "char": "ギ", "romaji": "gi", "type": "dakuten",
+      "words": [
+        { "word": "ギター", "syllables": "gi ta a", "translation": "гитара" },
+        { "word": "ギフト", "syllables": "gi fu to", "translation": "подарок" },
+        { "word": "ギャラリー", "syllables": "gya ra ri i", "translation": "галерея" },
+        { "word": "ギリシャ", "syllables": "gi ri sha", "translation": "Греция" },
+        { "word": "ギブ", "syllables": "gi bu", "translation": "сдаться" },
+        { "word": "ギャップ", "syllables": "gya ppu", "translation": "разрыв, разница" },
+        { "word": "ギア", "syllables": "gi a", "translation": "шестерёнка, передача" },
+        { "word": "ギャグ", "syllables": "gya gu", "translation": "шутка, гэг" },
+        { "word": "ギリギリ", "syllables": "gi ri gi ri", "translation": "еле-еле, впритык" },
+        { "word": "ギャンブル", "syllables": "gya n bu ru", "translation": "азартная игра" }
+      ]
+    },
+    {
+      "char": "グ", "romaji": "gu", "type": "dakuten",
+      "words": [
+        { "word": "グラス", "syllables": "gu ra su", "translation": "стакан" },
+        { "word": "グループ", "syllables": "gu ru u pu", "translation": "группа" },
+        { "word": "グリーン", "syllables": "gu ri i n", "translation": "зелёный" },
+        { "word": "グローブ", "syllables": "gu ro o bu", "translation": "перчатка" },
+        { "word": "グッズ", "syllables": "gu zzu", "translation": "товары, атрибутика" },
+        { "word": "グラフ", "syllables": "gu ra fu", "translation": "график" },
+        { "word": "グランド", "syllables": "gu ra n do", "translation": "площадка, стадион" },
+        { "word": "グルメ", "syllables": "gu ru me", "translation": "гурман, изысканная еда" },
+        { "word": "グレー", "syllables": "gu re e", "translation": "серый" },
+        { "word": "グアム", "syllables": "gu a mu", "translation": "Гуам" }
+      ]
+    },
+    {
+      "char": "ゲ", "romaji": "ge", "type": "dakuten",
+      "words": [
+        { "word": "ゲーム", "syllables": "ge e mu", "translation": "игра" },
+        { "word": "ゲスト", "syllables": "ge su to", "translation": "гость" },
+        { "word": "ゲート", "syllables": "ge e to", "translation": "ворота" },
+        { "word": "ゲレンデ", "syllables": "ge re n de", "translation": "склон (горнолыжный)" },
+        { "word": "ゲノム", "syllables": "ge no mu", "translation": "геном" },
+        { "word": "ゲームセンター", "syllables": "ge e mu se n ta a", "translation": "игровой автоматный центр" },
+        { "word": "ゲル", "syllables": "ge ru", "translation": "гель" },
+        { "word": "ゲット", "syllables": "ge tto", "translation": "получить, достать" },
+        { "word": "ゲージ", "syllables": "ge e ji", "translation": "датчик, шкала" },
+        { "word": "ゲリラ", "syllables": "ge ri ra", "translation": "партизан, герилья" }
+      ]
+    },
+    {
+      "char": "ゴ", "romaji": "go", "type": "dakuten",
+      "words": [
+        { "word": "ゴール", "syllables": "go o ru", "translation": "гол, финиш" },
+        { "word": "ゴルフ", "syllables": "go ru fu", "translation": "гольф" },
+        { "word": "ゴム", "syllables": "go mu", "translation": "резина" },
+        { "word": "ゴシップ", "syllables": "go shi ppu", "translation": "сплетни" },
+        { "word": "ゴリラ", "syllables": "go ri ra", "translation": "горилла" },
+        { "word": "ゴージャス", "syllables": "go o ja su", "translation": "роскошный" },
+        { "word": "ゴールデン", "syllables": "go o ru de n", "translation": "золотой" },
+        { "word": "ゴミ", "syllables": "go mi", "translation": "мусор (катакана)" },
+        { "word": "ゴルフ場", "syllables": "go ru fu jo u", "translation": "поле для гольфа" },
+        { "word": "ゴンドラ", "syllables": "go n do ra", "translation": "гондола" }
+      ]
+    },
+    {
+      "char": "ザ", "romaji": "za", "type": "dakuten",
+      "words": [
+        { "word": "ザック", "syllables": "za kku", "translation": "рюкзак" },
+        { "word": "ザ・ベスト", "syllables": "za be su to", "translation": "лучшее" },
+        { "word": "ザラザラ", "syllables": "za ra za ra", "translation": "шершавый, шелест" },
+        { "word": "ザッハ", "syllables": "za hha", "translation": "Цах (имя)" },
+        { "word": "ザイン", "syllables": "za i n", "translation": "знак" },
+        { "word": "ザーザー", "syllables": "za a za a", "translation": "звук сильного дождя" },
+        { "word": "ザッツ", "syllables": "za ttsu", "translation": "«вот это!» (англ. that's)" },
+        { "word": "ザボン", "syllables": "za bo n", "translation": "помело" },
+        { "word": "ザルツブルク", "syllables": "za ru tsu bu ru ku", "translation": "Зальцбург" },
+        { "word": "ザッピング", "syllables": "za ppi n gu", "translation": "переключение каналов" }
+      ]
+    },
+    {
+      "char": "ジ", "romaji": "ji", "type": "dakuten",
+      "words": [
+        { "word": "ジム", "syllables": "ji mu", "translation": "спортзал" },
+        { "word": "ジュース", "syllables": "ju u su", "translation": "сок" },
+        { "word": "ジャズ", "syllables": "ja zu", "translation": "джаз" },
+        { "word": "ジャンプ", "syllables": "ja n pu", "translation": "прыжок" },
+        { "word": "ジャケット", "syllables": "ja ke tto", "translation": "куртка" },
+        { "word": "ジーンズ", "syllables": "ji i n zu", "translation": "джинсы" },
+        { "word": "ジャガイモ", "syllables": "ja ga i mo", "translation": "картофель" },
+        { "word": "ジャム", "syllables": "ja mu", "translation": "варенье, джем" },
+        { "word": "ジョギング", "syllables": "jo gi n gu", "translation": "бег трусцой" },
+        { "word": "ジャーナリスト", "syllables": "ja a na ri su to", "translation": "журналист" }
+      ]
+    },
+    {
+      "char": "ズ", "romaji": "zu", "type": "dakuten",
+      "words": [
+        { "word": "ズボン", "syllables": "zu bo n", "translation": "брюки" },
+        { "word": "ズーム", "syllables": "zu u mu", "translation": "зум (фото)" },
+        { "word": "ズレ", "syllables": "zu re", "translation": "сдвиг, разница" },
+        { "word": "ズバリ", "syllables": "zu ba ri", "translation": "прямо, точно" },
+        { "word": "ズラリ", "syllables": "zu ra ri", "translation": "вереницей, в ряд" },
+        { "word": "ズルズル", "syllables": "zu ru zu ru", "translation": "скользить; хлюпать" },
+        { "word": "ズタズタ", "syllables": "zu ta zu ta", "translation": "в клочья, вдребезги" },
+        { "word": "ズシン", "syllables": "zu shi n", "translation": "глухой удар" },
+        { "word": "ズボン下", "syllables": "zu bo n shi ta", "translation": "кальсоны" },
+        { "word": "ズキュン", "syllables": "zu kyu n", "translation": "«в самое сердце» (сленг)" }
+      ]
+    },
+    {
+      "char": "ゼ", "romaji": "ze", "type": "dakuten",
+      "words": [
+        { "word": "ゼロ", "syllables": "ze ro", "translation": "ноль" },
+        { "word": "ゼリー", "syllables": "ze ri i", "translation": "желе" },
+        { "word": "ゼミ", "syllables": "ze mi", "translation": "семинар" },
+        { "word": "ゼネコン", "syllables": "ze ne ko n", "translation": "генподрядчик" },
+        { "word": "ゼッケン", "syllables": "ze kke n", "translation": "нагрудник" },
+        { "word": "ゼスチャー", "syllables": "ze su cha a", "translation": "жест" },
+        { "word": "ゼロックス", "syllables": "ze ro kku su", "translation": "ксерокс" },
+        { "word": "ゼブラ", "syllables": "ze bu ra", "translation": "зебра" },
+        { "word": "ゼミナール", "syllables": "ze mi na a ru", "translation": "семинар (полн.)" },
+        { "word": "ゼラチン", "syllables": "ze ra chi n", "translation": "желатин" }
+      ]
+    },
+    {
+      "char": "ゾ", "romaji": "zo", "type": "dakuten",
+      "words": [
+        { "word": "ゾーン", "syllables": "zo o n", "translation": "зона" },
+        { "word": "ゾウ", "syllables": "zo u", "translation": "слон (катакана)" },
+        { "word": "ゾンビ", "syllables": "zo n bi", "translation": "зомби" },
+        { "word": "ゾクゾク", "syllables": "zo ku zo ku", "translation": "дрожь, мурашки" },
+        { "word": "ゾロゾロ", "syllables": "zo ro zo ro", "translation": "гуськом, вереницей" },
+        { "word": "ゾッとする", "syllables": "zo tto su ru", "translation": "содрогаться" },
+        { "word": "ゾディアック", "syllables": "zo di a kku", "translation": "зодиак" },
+        { "word": "ゾンネ", "syllables": "zo n ne", "translation": "солнце (нем.)" },
+        { "word": "ゾンデ", "syllables": "zo n de", "translation": "зонд" },
+        { "word": "ゾーンタイム", "syllables": "zo o n ta i mu", "translation": "часовой пояс" }
+      ]
+    },
+    {
+      "char": "ダ", "romaji": "da", "type": "dakuten",
+      "words": [
+        { "word": "ダンス", "syllables": "da n su", "translation": "танец" },
+        { "word": "ダイエット", "syllables": "da i e tto", "translation": "диета" },
+        { "word": "ダブル", "syllables": "da bu ru", "translation": "двойной" },
+        { "word": "ダメージ", "syllables": "da me e ji", "translation": "урон, повреждение" },
+        { "word": "ダイヤ", "syllables": "da i ya", "translation": "алмаз, бриллиант" },
+        { "word": "ダウンロード", "syllables": "da u n ro o do", "translation": "скачивание" },
+        { "word": "ダッチ", "syllables": "da tchi", "translation": "голландский (Dutch)" },
+        { "word": "ダム", "syllables": "da mu", "translation": "плотина" },
+        { "word": "ダンスホール", "syllables": "da n su ho o ru", "translation": "танцзал" },
+        { "word": "ダーク", "syllables": "da a ku", "translation": "тёмный" }
+      ]
+    },
+    {
+      "char": "ヂ", "romaji": "ji", "type": "dakuten", "rare": true,
+      "words": [
+        { "word": "ハナヂ", "syllables": "ha na ji", "translation": "кровь из носа (катаканный вариант はなぢ)" },
+        { "word": "ヂヂ", "syllables": "ji ji", "translation": "дедушка (стилизация)" },
+        { "word": "ヂャズ", "syllables": "ja zu", "translation": "джаз (устар. транслит)" },
+        { "word": "ヂェノヴァ", "syllables": "je no va", "translation": "Генуя (устар.)" },
+        { "word": "ヂャンプ", "syllables": "ja n pu", "translation": "прыжок (устар. транслит)" },
+        { "word": "ヂェット", "syllables": "je tto", "translation": "джет (устар. транслит)" },
+        { "word": "ヂャケット", "syllables": "ja ke tto", "translation": "куртка (устар. транслит)" },
+        { "word": "ヂャム", "syllables": "ja mu", "translation": "варенье (устар. транслит)" },
+        { "word": "ヂェリー", "syllables": "je ri i", "translation": "желе (устар. транслит)" },
+        { "word": "ヂャーナル", "syllables": "ja a na ru", "translation": "журнал (устар. транслит)" }
+      ]
+    },
+    {
+      "char": "ヅ", "romaji": "zu", "type": "dakuten", "rare": true,
+      "words": [
+        { "word": "マグロヅケ", "syllables": "ma gu ro zu ke", "translation": "маринованный тунец" },
+        { "word": "ヅラ", "syllables": "zu ra", "translation": "парик (разг.)" },
+        { "word": "ヅケ", "syllables": "zu ke", "translation": "маринование" },
+        { "word": "ヅボン", "syllables": "zu bo n", "translation": "брюки (устар. транслит)" },
+        { "word": "ヅル", "syllables": "zu ru", "translation": "журавль (устар. транслит)" },
+        { "word": "ヅミ", "syllables": "zu mi", "translation": "барабан (устар. транслит)" },
+        { "word": "ヅカ", "syllables": "zu ka", "translation": "холм (устар. транслит)" },
+        { "word": "ヅチ", "syllables": "zu chi", "translation": "молоток (устар. транслит)" },
+        { "word": "ヅク", "syllables": "zu ku", "translation": "делать (устар. транслит)" },
+        { "word": "ヅヨ", "syllables": "zu yo", "translation": "сильный (устар. транслит)" }
+      ]
+    },
+    {
+      "char": "デ", "romaji": "de", "type": "dakuten",
+      "words": [
+        { "word": "デザイン", "syllables": "de za i n", "translation": "дизайн" },
+        { "word": "データ", "syllables": "de e ta", "translation": "данные" },
+        { "word": "デート", "syllables": "de e to", "translation": "свидание" },
+        { "word": "デジタル", "syllables": "de ji ta ru", "translation": "цифровой" },
+        { "word": "デザート", "syllables": "de za a to", "translation": "десерт" },
+        { "word": "デモ", "syllables": "de mo", "translation": "демонстрация, демо" },
+        { "word": "デコレーション", "syllables": "de ko re e sho n", "translation": "декорация" },
+        { "word": "デリケート", "syllables": "de ri ke e to", "translation": "деликатный" },
+        { "word": "デッサン", "syllables": "de ssa n", "translation": "набросок" },
+        { "word": "デビュー", "syllables": "de byu u", "translation": "дебют" }
+      ]
+    },
+    {
+      "char": "ド", "romaji": "do", "type": "dakuten",
+      "words": [
+        { "word": "ドア", "syllables": "do a", "translation": "дверь" },
+        { "word": "ドラマ", "syllables": "do ra ma", "translation": "драма" },
+        { "word": "ドレス", "syllables": "do re su", "translation": "платье" },
+        { "word": "ドクター", "syllables": "do ku ta a", "translation": "доктор" },
+        { "word": "ドラゴン", "syllables": "do ra go n", "translation": "дракон" },
+        { "word": "ドリンク", "syllables": "do ri n ku", "translation": "напиток" },
+        { "word": "ドライブ", "syllables": "do ra i bu", "translation": "поездка на машине" },
+        { "word": "ドル", "syllables": "do ru", "translation": "доллар" },
+        { "word": "ドラム", "syllables": "do ra mu", "translation": "барабан" },
+        { "word": "ドキュメント", "syllables": "do kyu me n to", "translation": "документ" }
+      ]
+    },
+    {
+      "char": "バ", "romaji": "ba", "type": "dakuten",
+      "words": [
+        { "word": "バス", "syllables": "ba su", "translation": "автобус" },
+        { "word": "バナナ", "syllables": "ba na na", "translation": "банан" },
+        { "word": "バター", "syllables": "ba ta a", "translation": "масло" },
+        { "word": "バッグ", "syllables": "ba ggu", "translation": "сумка" },
+        { "word": "バランス", "syllables": "ba ra n su", "translation": "баланс" },
+        { "word": "バッテリー", "syllables": "ba tte ri i", "translation": "батарея" },
+        { "word": "バレーボール", "syllables": "ba re e bo o ru", "translation": "волейбол" },
+        { "word": "バー", "syllables": "ba a", "translation": "бар" },
+        { "word": "バック", "syllables": "ba kku", "translation": "назад, спина" },
+        { "word": "バジル", "syllables": "ba ji ru", "translation": "базилик" }
+      ]
+    },
+    {
+      "char": "ビ", "romaji": "bi", "type": "dakuten",
+      "words": [
+        { "word": "ビール", "syllables": "bi i ru", "translation": "пиво" },
+        { "word": "ビル", "syllables": "bi ru", "translation": "здание" },
+        { "word": "ビデオ", "syllables": "bi de o", "translation": "видео" },
+        { "word": "ビジネス", "syllables": "bi ji ne su", "translation": "бизнес" },
+        { "word": "ビタミン", "syllables": "bi ta mi n", "translation": "витамин" },
+        { "word": "ビザ", "syllables": "bi za", "translation": "виза" },
+        { "word": "ビーチ", "syllables": "bi i chi", "translation": "пляж" },
+        { "word": "ビルディング", "syllables": "bi ru di n gu", "translation": "здание, билдинг" },
+        { "word": "ビュッフェ", "syllables": "byu ppe", "translation": "буфет, шведский стол" },
+        { "word": "ビン", "syllables": "bi n", "translation": "бутылка" }
+      ]
+    },
+    {
+      "char": "ブ", "romaji": "bu", "type": "dakuten",
+      "words": [
+        { "word": "ブラシ", "syllables": "bu ra shi", "translation": "щётка" },
+        { "word": "ブランド", "syllables": "bu ra n do", "translation": "бренд" },
+        { "word": "ブルー", "syllables": "bu ru u", "translation": "синий" },
+        { "word": "ブレーキ", "syllables": "bu re e ki", "translation": "тормоз" },
+        { "word": "ブロック", "syllables": "bu ro kku", "translation": "блок" },
+        { "word": "ブラウス", "syllables": "bu ra u su", "translation": "блузка" },
+        { "word": "ブドウ", "syllables": "bu do u", "translation": "виноград (катакана)" },
+        { "word": "ブルドッグ", "syllables": "bu ru do ggu", "translation": "бульдог" },
+        { "word": "ブラック", "syllables": "bu ra kku", "translation": "чёрный" },
+        { "word": "ブレスレット", "syllables": "bu re su re tto", "translation": "браслет" }
+      ]
+    },
+    {
+      "char": "ベ", "romaji": "be", "type": "dakuten",
+      "words": [
+        { "word": "ベッド", "syllables": "be ddo", "translation": "кровать" },
+        { "word": "ベスト", "syllables": "be su to", "translation": "лучший" },
+        { "word": "ベルト", "syllables": "be ru to", "translation": "ремень" },
+        { "word": "ベンチ", "syllables": "be n chi", "translation": "скамейка" },
+        { "word": "ベーコン", "syllables": "be e ko n", "translation": "бекон" },
+        { "word": "ベランダ", "syllables": "be ra n da", "translation": "балкон" },
+        { "word": "ベース", "syllables": "be e su", "translation": "база, основа" },
+        { "word": "ベビー", "syllables": "be bi i", "translation": "малыш, детский" },
+        { "word": "ベール", "syllables": "be e ru", "translation": "вуаль" },
+        { "word": "ベンチャー", "syllables": "be n cha a", "translation": "венчур, риск" }
+      ]
+    },
+    {
+      "char": "ボ", "romaji": "bo", "type": "dakuten",
+      "words": [
+        { "word": "ボール", "syllables": "bo o ru", "translation": "мяч" },
+        { "word": "ボタン", "syllables": "bo ta n", "translation": "кнопка" },
+        { "word": "ボート", "syllables": "bo o to", "translation": "лодка" },
+        { "word": "ボス", "syllables": "bo su", "translation": "босс" },
+        { "word": "ボーナス", "syllables": "bo o na su", "translation": "бонус" },
+        { "word": "ボックス", "syllables": "bo kku su", "translation": "коробка, бокс" },
+        { "word": "ボディ", "syllables": "bo di", "translation": "тело, корпус" },
+        { "word": "ボランティア", "syllables": "bo ra n ti a", "translation": "волонтёр" },
+        { "word": "ボウリング", "syllables": "bo u ri n gu", "translation": "боулинг" },
+        { "word": "ボイル", "syllables": "bo i ru", "translation": "варка, кипячение" }
+      ]
+    },
+    {
+      "char": "パ", "romaji": "pa", "type": "handakuten",
+      "words": [
+        { "word": "パン", "syllables": "pa n", "translation": "хлеб" },
+        { "word": "パーティー", "syllables": "pa a ti i", "translation": "вечеринка" },
+        { "word": "パソコン", "syllables": "pa so ko n", "translation": "компьютер" },
+        { "word": "パスポート", "syllables": "pa su po o to", "translation": "паспорт" },
+        { "word": "パスタ", "syllables": "pa su ta", "translation": "паста" },
+        { "word": "パジャマ", "syllables": "pa ja ma", "translation": "пижама" },
+        { "word": "パトカー", "syllables": "pa to ka a", "translation": "полицейская машина" },
+        { "word": "パイナップル", "syllables": "pa i na ppu ru", "translation": "ананас" },
+        { "word": "パンツ", "syllables": "pa n tsu", "translation": "трусы; брюки (разг.)" },
+        { "word": "パズル", "syllables": "pa zu ru", "translation": "головоломка, пазл" }
+      ]
+    },
+    {
+      "char": "ピ", "romaji": "pi", "type": "handakuten",
+      "words": [
+        { "word": "ピザ", "syllables": "pi za", "translation": "пицца" },
+        { "word": "ピアノ", "syllables": "pi a no", "translation": "пианино" },
+        { "word": "ピンク", "syllables": "pi n ku", "translation": "розовый" },
+        { "word": "ピーク", "syllables": "pi i ku", "translation": "пик" },
+        { "word": "ピストル", "syllables": "pi su to ru", "translation": "пистолет" },
+        { "word": "ピーマン", "syllables": "pi i ma n", "translation": "болгарский перец" },
+        { "word": "ピラミッド", "syllables": "pi ra mi ddo", "translation": "пирамида" },
+        { "word": "ピッチ", "syllables": "pi tchi", "translation": "темп, скорость" },
+        { "word": "ピクニック", "syllables": "pi ku ni kku", "translation": "пикник" },
+        { "word": "ピンセット", "syllables": "pi n se tto", "translation": "пинцет" }
+      ]
+    },
+    {
+      "char": "プ", "romaji": "pu", "type": "handakuten",
+      "words": [
+        { "word": "プール", "syllables": "pu u ru", "translation": "бассейн" },
+        { "word": "プレゼント", "syllables": "pu re ze n to", "translation": "подарок" },
+        { "word": "プラン", "syllables": "pu ra n", "translation": "план" },
+        { "word": "プリント", "syllables": "pu ri n to", "translation": "распечатка" },
+        { "word": "プロ", "syllables": "pu ro", "translation": "профи" },
+        { "word": "プリン", "syllables": "pu ri n", "translation": "пудинг" },
+        { "word": "プラスチック", "syllables": "pu ra su chi kku", "translation": "пластик" },
+        { "word": "プライバシー", "syllables": "pu ra i ba shi i", "translation": "приватность" },
+        { "word": "プリンター", "syllables": "pu ri n ta a", "translation": "принтер" },
+        { "word": "プロジェクト", "syllables": "pu ro je ku to", "translation": "проект" }
+      ]
+    },
+    {
+      "char": "ペ", "romaji": "pe", "type": "handakuten",
+      "words": [
+        { "word": "ペン", "syllables": "pe n", "translation": "ручка" },
+        { "word": "ペット", "syllables": "pe tto", "translation": "питомец" },
+        { "word": "ページ", "syllables": "pe e ji", "translation": "страница" },
+        { "word": "ペース", "syllables": "pe e su", "translation": "темп" },
+        { "word": "ペンキ", "syllables": "pe n ki", "translation": "краска" },
+        { "word": "ペキン", "syllables": "pe ki n", "translation": "Пекин" },
+        { "word": "ペナルティ", "syllables": "pe na ru ti", "translation": "штраф" },
+        { "word": "ペルー", "syllables": "pe ru u", "translation": "Перу" },
+        { "word": "ペンション", "syllables": "pe n sho n", "translation": "пансион (гостиница)" },
+        { "word": "ペットボトル", "syllables": "pe tto bo to ru", "translation": "пластиковая бутылка" }
+      ]
+    },
+    {
+      "char": "ポ", "romaji": "po", "type": "handakuten",
+      "words": [
+        { "word": "ポスト", "syllables": "po su to", "translation": "почтовый ящик" },
+        { "word": "ポケット", "syllables": "po ke tto", "translation": "карман" },
+        { "word": "ポスター", "syllables": "po su ta a", "translation": "плакат" },
+        { "word": "ポテト", "syllables": "po te to", "translation": "картофель" },
+        { "word": "ポイント", "syllables": "po i n to", "translation": "очко, пункт" },
+        { "word": "ポーランド", "syllables": "po o ra n do", "translation": "Польша" },
+        { "word": "ポップコーン", "syllables": "po ppu ko o n", "translation": "попкорн" },
+        { "word": "ポジション", "syllables": "po ji sho n", "translation": "позиция" },
+        { "word": "ポンプ", "syllables": "po n pu", "translation": "насос" },
+        { "word": "ポリシー", "syllables": "po ri shi i", "translation": "политика (принципы)" }
+      ]
+    }
+  ]
+}
