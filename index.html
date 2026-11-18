@@ -13,21 +13,25 @@
 
 <body>
     <div class="app">
-        <div class="theme-toggle-wrap">
-            <button class="theme-toggle" id="themeToggle" title="Переключить тему" aria-label="Переключить тему">
-                <span class="theme-icon" id="themeIcon">🌙</span>
-            </button>
+        <div class="top-controls">
+            <div class="top-controls-left">
+                <button class="direction-toggle" id="directionToggle" title="Сменить направление"
+                    aria-label="Сменить направление">
+                    <span id="directionLabel">あ-a</span>
+                </button>
+                <button class="contest-btn" id="contestToggle" title="Проверка всех знаков"
+                    aria-label="Проверка всех знаков">
+                    🥇
+                </button>
+            </div>
+
+            <div class="top-controls-right">
+                <button class="theme-toggle" id="themeToggle" title="Переключить тему" aria-label="Переключить тему">
+                    <span class="theme-icon" id="themeIcon">🌙</span>
+                </button>
+            </div>
         </div>
-        <div class="direction-toggle-wrap">
-            <button class="direction-toggle" id="directionToggle" title="Сменить направление (кана ↔ ромадзи)"
-                aria-label="Сменить направление">
-                <span id="directionLabel">あ-a</span>
-            </button>
-            <button class="contest-btn" id="contestToggle" title="Проверка всех знаков"
-                aria-label="Проверка всех знаков">
-                🥇
-            </button>
-        </div>
+
         <div class="alphabet-switch">
             <button class="alphabet-btn active" data-alphabet="hiragana">Хирагана</button>
             <button class="alphabet-btn" data-alphabet="katakana">Катакана</button>
@@ -62,13 +66,23 @@
             <span style="font-size: 1.4rem;">→</span>
         </button>
 
-        <div class="word-card-wrapper">
+        <!-- <div class="word-card-wrapper">
             <div class="word-card" id="wordCard" hidden>
                 <div class="word-header">
                     <span class="word-label">Пример слова</span>
                     <button class="word-sound-btn" id="wordSoundBtn" title="Прослушать слово">🔊</button>
                 </div>
                 <div class="word-main" id="wordMain">ください</div>
+                <div class="word-syllables" id="wordSyllables">[ ku · da · sa · i ]</div>
+                <div class="word-translation" id="wordTranslation">пожалуйста</div>
+            </div>
+        </div> -->
+        <div class="word-card-wrapper">
+            <div class="word-card" id="wordCard" hidden>
+                <div class="word-header">
+                    <div class="word-main" id="wordMain">ください</div>
+                    <button class="word-sound-btn" id="wordSoundBtn" title="Прослушать слово">🔊</button>
+                </div>
                 <div class="word-syllables" id="wordSyllables">[ ku · da · sa · i ]</div>
                 <div class="word-translation" id="wordTranslation">пожалуйста</div>
             </div>
