@@ -119,19 +119,44 @@
         return list;
     }
 
-    function generateOptionsFor(correctItem, pool) {
+    // ---------- ГЕНЕРАЦИЯ ВАРИАНТОВ ----------
+    function generateOptionsFor(correctItem, fullPool) {
         const isCharToRomaji = currentDirection === 'char-to-romaji';
+        const wantedType = correctItem.type || 'base';
+
+        let typedPool = fullPool.filter(item => (item.type || 'base') === wantedType);
+
         const allValues = [...new Set(
-            pool.map(item => isCharToRomaji ? item.romaji : item.char)
+            typedPool.map(item => isCharToRomaji ? item.romaji : item.char)
         )];
         const correctValue = isCharToRomaji ? correctItem.romaji : correctItem.char;
-        const candidates = allValues.filter(v => v !== correctValue);
-        const distractors = [];
-        while (distractors.length < 3 && candidates.length > 0) {
-            const idx = Math.floor(Math.random() * candidates.length);
-            distractors.push(candidates[idx]);
-            candidates.splice(idx, 1);
+
+        let candidates = allValues.filter(v => v !== correctValue);
+
+        if (candidates.length < 3) {
+            const extraValues = fullPool
+                .filter(item => (item.type || 'base') !== wantedType)
+                .map(item => isCharToRomaji ? item.romaji : item.char);
+            for (const v of extraValues) {
+                if (v !== correctValue && !candidates.includes(v)) {
+                    candidates.push(v);
+                }
+                if (candidates.length >= 3) break;
+            }
         }
+
+        const distractors = [];
+        const poolCopy = [...candidates];
+        while (distractors.length < 3 && poolCopy.length > 0) {
+            const idx = Math.floor(Math.random() * poolCopy.length);
+            distractors.push(poolCopy[idx]);
+            poolCopy.splice(idx, 1);
+        }
+
+        while (distractors.length < 3) {
+            distractors.push('?');
+        }
+
         return shuffleArray([correctValue, ...distractors]);
     }
 
@@ -180,9 +205,6 @@
     }
 
     // ---------- УПРАВЛЕНИЕ КНОПКОЙ 🔊 ----------
-    // Видимость зависит от направления и экзамена:
-    //  - в режиме "ромадзи → кана" кнопка не нужна,
-    //  - во время экзамена кнопка тоже скрыта.
     function updateSoundBtnVisibility() {
         if (!soundBtn) return;
         const isCharToRomaji = currentDirection === 'char-to-romaji';
@@ -308,8 +330,6 @@
         if (currentDirection === direction) return;
         applyDirection(direction);
         loadNewCard();
-        // Кнопка 🔊 могла быть скрыта в режиме "ромадзи → кана",
-        // поэтому при смене направления заново выставляем её видимость.
         updateSoundBtnVisibility();
     }
 
@@ -344,7 +364,6 @@
 
         const isCharToRomaji = currentDirection === 'char-to-romaji';
 
-        // Уникальные вопросы (без дублей по char)
         const seen = new Set();
         let questions = [];
         for (const item of data) {
@@ -358,10 +377,8 @@
         }
         if (!questions.length) return;
 
-        // Перемешиваем вопросы, чтобы знаки шли вразнобой
         questions = shuffleArray(questions);
 
-        // Статистика по типам
         const stats = {
             base: { correct: 0, total: 0 },
             dakuten: { correct: 0, total: 0 },
@@ -376,7 +393,6 @@
         if (contestToggle) contestToggle.textContent = CONTEST_ICON_STOP;
 
         contestActive = true;
-        // Скрываем кнопку 🔊 на время экзамена
         updateSoundBtnVisibility();
 
         let currentIdx = 0;
@@ -398,7 +414,6 @@
             clearContestTimer();
             setControlsDisabled(false);
             if (contestToggle) contestToggle.textContent = CONTEST_ICON_PLAY;
-            // Возвращаем кнопку 🔊 (с учётом направления)
             updateSoundBtnVisibility();
         }
 
@@ -422,7 +437,6 @@
 
             glyphDisplay.textContent = isCharToRomaji ? q.item.char : q.item.romaji;
             glyphDisplay.classList.toggle('glyph-romaji', !isCharToRomaji);
-            // Кнопка 🔊 во время экзамена всегда скрыта
             updateSoundBtnVisibility();
 
             currentItem = q.item;
